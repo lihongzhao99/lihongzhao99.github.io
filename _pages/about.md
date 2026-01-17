@@ -25,7 +25,7 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 <!-- <a href='https://scholar.google.com/citations?user=iWCZj9wAAAAJ'>Google Scholar Profile <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 One paper is accepted by **AAAI 2026** as an **Oral** presentation.
+- *2025.10*: &nbsp;🎉 One paper is accepted by **AAAI 2026** as an **Oral** presentation.
 - *2025.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2025**.
 - *2025.05*: &nbsp;🚀 One paper is accepted by **Expert Systems with Applications** (IF 7.5).
 - *2025.03*: &nbsp;🚀 One paper is accepted by **Knowledge-Based Systems** (IF 7.2).
