@@ -2,24 +2,15 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-
   - title: "News"
-    url: "/#-news"
-
+    url: "/#news"
   - title: "Publications"
-    url: "/#-publications"
-
+    url: "/#publications"
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
+    url: "/#honors-and-awards"
   - title: "Academic Services"
-    url: "/#-academic-services"
-
+    url: "/#academic-services"
   - title: "Educations"
-    url: "/#-educations"
-
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
-
+    url: "/#educations"
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#internships"
