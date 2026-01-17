@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🙋‍♂️ About Me
 
-I am currently a Ph.D. student at the School of Computer and Artificial Intelligence, **Zhengzhou University (郑州大学)**. I am fortunately advised by **[Prof. Mingliang Xu (徐明亮)](https://www7.zzu.edu.cn/csai/info/1234/2497.htm)** and **[Prof. Shupan Li (李书攀)](https://www.scopus.com/authid/detail.uri?authorId=56688691400)**. Concurrently, I am privileged to receive remote academic guidance from **[Prof. Muhammad Haris Khan](https://m-haris-khan.com/)** at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI).
+I am currently a Ph.D. student at the School of Computer and Artificial Intelligence, **Zhengzhou University (郑州大学)**. I am fortunately advised by Prof. **[Mingliang Xu (徐明亮)](https://www7.zzu.edu.cn/csai/info/1234/2497.htm)** and Prof. **[Shupan Li (李书攀)](https://www.scopus.com/authid/detail.uri?authorId=56688691400)**. Concurrently, I am privileged to receive remote academic guidance from Prof. **[Muhammad Haris Khan](https://m-haris-khan.com/)** at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI).
 
 My research interests primarily focus on **Transfer Learning** (specifically Domain Generalization), **Multimodal Learning**, and **Continual Learning**. 
 
@@ -31,7 +31,7 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.10*: &nbsp;🎉 One paper is accepted by **AAAI 2026** as an **Oral** presentation.
-- *2025.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2025**.
+- *2025.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2025** as an **Oral** presentation.
 - *2025.05*: &nbsp;🚀 One paper is accepted by **Expert Systems with Applications** (IF 7.5).
 - *2025.03*: &nbsp;🚀 One paper is accepted by **Knowledge-Based Systems** (IF 7.2).
 - *2025.01*: &nbsp;🎉 One paper is accepted by **ICIC 2025** as an **Oral** presentation.
