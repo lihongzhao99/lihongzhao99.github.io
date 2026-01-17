@@ -44,6 +44,7 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 - **Hongzhao Li**, et al. "Multi-Modality and Multi-Grained Transformer for Accurate Radiology Report Generation." **ICIC 2025**, **CCF-C**, **Oral**.
 
 # 🎖 Honors and Awards
+- *2025.09* Ph.D. Scholarship, Zhengzhou University.
 - *2024.09* Ph.D. Scholarship, Zhengzhou University.
 
 # 📖 Educations
