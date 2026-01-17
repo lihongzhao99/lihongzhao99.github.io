@@ -15,11 +15,10 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# 🙋‍♂️ About Me
 <span class='anchor' id='about-me'></span>
 
 I am currently a Ph.D. student at the School of Computer and Artificial Intelligence, **Zhengzhou University (郑州大学)**. I am fortunately advised by **Prof. Mingliang Xu (徐明亮)** and **Prof. Shupan Li (李书攀)**. Concurrently, I am privileged to receive remote academic guidance from **Prof. Muhammad Haris Khan** at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). 
-
-Prior to my doctoral studies, I obtained my Master's degree in Computer Science and Technology from **Northwest University (西北大学)** in 2024, where I was supervised by **Prof. Jun Feng (冯筠)**. I received my Bachelor's degree in Software Engineering from **Henan University (河南大学)** in 2021.
 
 My research interests primarily focus on **Transfer Learning** (specifically Domain Generalization), **Multimodal Learning**, and **Continual Learning**. 
 
@@ -36,16 +35,16 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 
 # 📝 Publications 
 
-- **Hongzhao Li**, et al. "Balancing Multimodal Domain Generalization via Gradient Modulation and Projection." **AAAI 2026**, **CCF-A**, **Oral**.
-- **Hongzhao Li**, et al. "Towards Robust Multimodal Domain Generalization via Modality-Domain Joint Adversarial Training." **ACM MM 2025**, **CCF-A**, **Oral**.
-- **Hongzhao Li**, et al. "RRGMambaFormer: A hybrid Transformer-Mamba architecture for radiology report generation." **Expert Systems with Applications**, 2025, **Q1 (CAS/JCR)**, **IF 7.5**.
-- **Hongzhao Li**, et al. "Context-enhanced framework for medical image report generation using multimodal contexts." **Knowledge-Based Systems**, 2025, **Q1 (CAS/JCR)**, **IF 7.2**.
-- **Hongzhao Li**, et al. "Prompt-guided generation of structured chest X-ray report using a pre-trained LLM." **ICME 2024**, **CCF-B**.
-- **Hongzhao Li**, et al. "Multi-Modality and Multi-Grained Transformer for Accurate Radiology Report Generation." **ICIC 2025**, **CCF-C**, **Oral**.
+- **Hongzhao Li**, Guohao Shen, Shupan Li<sup>*</sup>, Mingliang Xu<sup>*</sup>, Muhammad Haris Khan. "Balancing Multimodal Domain Generalization via Gradient Modulation and Projection." **AAAI 2026**, **CCF-A**, **Oral**.
+- **Hongzhao Li**, Hualei Wan, Liangzhi Zhang, Mingyuan Jiu, Shupan Li<sup>*</sup>, Mingliang Xu<sup>*</sup>, Muhammad Haris Khan. "[Towards Robust Multimodal Domain Generalization via Modality-Domain Joint Adversarial Training](https://dl.acm.org/doi/abs/10.1145/3746027.3754954)." **ACM MM 2025**, **CCF-A**, **Oral**.
+- **Hongzhao Li**, Siwei Liu, Hui Wang, Xiaoheng Jiang, Mingyuan Jiu, Li Chen, Yang Lu, Shupan Li<sup>*</sup>, Mingliang Xu<sup>*</sup>. "[RRGMambaFormer: A hybrid Transformer-Mamba architecture for radiology report generation](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010413)." **Expert Systems with Applications**, 2025, **Q1 (CAS/JCR)**, **IF 7.5**.
+- **Hongzhao Li**, Hongyu Wang, Xia Sun, Hua He<sup>*</sup>, Jun Feng<sup>*</sup>. "[Context-enhanced framework for medical image report generation using multimodal contexts](https://www.sciencedirect.com/science/article/abs/pii/S0950705124015478)." **Knowledge-Based Systems**, 2025, **Q1 (CAS/JCR)**, **IF 7.2**.
+- **Hongzhao Li**, Hongyu Wang, Xia Sun<sup>*</sup>, Hua He, Jun Feng<sup>*</sup>. "[Prompt-guided generation of structured chest X-ray report using a pre-trained LLM](https://ieeexplore.ieee.org/abstract/document/10687707)." **ICME 2024**, **CCF-B**.
+- **Hongzhao Li**, Liangzhi Zhang, Xiangrong Zhong, Jingpu Zhang, Shuo Feng, Shupan Li<sup>*</sup>. "[Multi-Modality and Multi-Grained Transformer for Accurate Radiology Report Generation](https://link.springer.com/chapter/10.1007/978-981-95-0033-8_8)." **ICIC 2025**, **CCF-C**, **Oral**.
 
 # 🎖 Honors and Awards
-- *2025.09* Ph.D. Scholarship, Zhengzhou University.
-- *2024.09* Ph.D. Scholarship, Zhengzhou University.
+- *2025.09* First-class Ph.D. Scholarship, Zhengzhou University.
+- *2024.09* First-class Ph.D. Scholarship, Zhengzhou University.
 
 # 📖 Educations
 - *2024.09 - Present*: **Zhengzhou University (郑州大学)**, Ph.D. in Software Engineering.
