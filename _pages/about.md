@@ -18,7 +18,7 @@ redirect_from:
 # 🙋‍♂️ About Me
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at the School of Computer and Artificial Intelligence, **Zhengzhou University (郑州大学)**. I am fortunately advised by **Prof. Mingliang Xu (徐明亮)** and **Prof. Shupan Li (李书攀)**. Concurrently, I am privileged to receive remote academic guidance from **Prof. Muhammad Haris Khan** at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). 
+I am currently a Ph.D. student at the School of Computer and Artificial Intelligence, **Zhengzhou University (郑州大学)**. I am fortunately advised by **[Prof. Mingliang Xu (徐明亮)](https://www7.zzu.edu.cn/csai/info/1234/2497.htm)** and **[Prof. Shupan Li (李书攀)](https://www.scopus.com/authid/detail.uri?authorId=56688691400)**. Concurrently, I am privileged to receive remote academic guidance from **[Prof. Muhammad Haris Khan](https://m-haris-khan.com/)** at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI).
 
 My research interests primarily focus on **Transfer Learning** (specifically Domain Generalization), **Multimodal Learning**, and **Continual Learning**. 
 
@@ -43,6 +43,7 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 - **Hongzhao Li**, Liangzhi Zhang, Xiangrong Zhong, Jingpu Zhang, Shuo Feng, Shupan Li<sup>*</sup>. "[Multi-Modality and Multi-Grained Transformer for Accurate Radiology Report Generation](https://link.springer.com/chapter/10.1007/978-981-95-0033-8_8)." **ICIC 2025**, **CCF-C**, **Oral**.
 
 # 🎖 Honors and Awards
+- *2025.10* Principal Investigator, **the Natural Science Foundation of Henan Provincial** (Youth Student Project). (主持河南省自然科学基金-青年学生项目)
 - *2025.09* First-class Ph.D. Scholarship, Zhengzhou University.
 - *2024.09* First-class Ph.D. Scholarship, Zhengzhou University.
 
