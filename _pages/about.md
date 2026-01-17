@@ -38,6 +38,7 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 
 # 📝 Publications 
 <span class='anchor' id='#publications'></span>
+
 - **Hongzhao Li**, Guohao Shen, Shupan Li<sup>*</sup>, Mingliang Xu<sup>*</sup>, Muhammad Haris Khan. "Balancing Multimodal Domain Generalization via Gradient Modulation and Projection." **AAAI 2026**, **CCF-A**, **Oral**.
 - **Hongzhao Li**, Hualei Wan, Liangzhi Zhang, Mingyuan Jiu, Shupan Li<sup>*</sup>, Mingliang Xu<sup>*</sup>, Muhammad Haris Khan. "[Towards Robust Multimodal Domain Generalization via Modality-Domain Joint Adversarial Training](https://dl.acm.org/doi/abs/10.1145/3746027.3754954)." **ACM MM 2025**, **CCF-A**, **Oral**.
 - **Hongzhao Li**, Siwei Liu, Hui Wang, Xiaoheng Jiang, Mingyuan Jiu, Li Chen, Yang Lu, Shupan Li<sup>*</sup>, Mingliang Xu<sup>*</sup>. "[RRGMambaFormer: A hybrid Transformer-Mamba architecture for radiology report generation](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010413)." **Expert Systems with Applications**, 2025, **Q1 (CAS/JCR)**, **IF 7.5**.
