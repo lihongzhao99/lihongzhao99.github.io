@@ -53,10 +53,8 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 
 # 🏛️ Academic Services
 <span class='anchor' id='academic-services'></span>
-**Journal Referee:**
-* IJCV, TNNLS, TASE, TCDS, TETCI, JBHI
-**Conference Reviewer:**
-* AAAI, ACM MM, ICME
+- **Journal Reviewer:** IJCV, TNNLS, TASE, TCDS, TETCI, JBHI
+- **Conference Reviewer:** AAAI, ACM MM, ICME
 
 # 📖 Educations
 <span class='anchor' id='educations'></span>
