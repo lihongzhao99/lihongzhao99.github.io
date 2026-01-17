@@ -48,19 +48,13 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 - *2024.09* First-class Ph.D. Scholarship, Zhengzhou University.
 
 # 🏛️ Academic Services
+<span class='anchor' id='academic-services'></span>
 
-### Journal Reviewer
-- International Journal of Computer Vision (**IJCV**)
-- IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
-- IEEE Transactions on Automation Science and Engineering (**TASE**)
-- IEEE Transactions on Cognitive and Developmental Systems (**TCDS**)
-- IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**)
-- IEEE Journal of Biomedical and Health Informatics (**JBHI**)
+**Journal Referee:**
+* IJCV, JBHI, TNNLS, TASE, TCDS, TETCI
 
-### Conference Reviewer
-- AAAI Conference on Artificial Intelligence (**AAAI**)
-- ACM International Conference on Multimedia (**ACM MM**)
-- IEEE International Conference on Multimedia and Expo (**ICME**)
+**Conference Reviewer:**
+* AAAI, ACM MM, ICME
 
 # 📖 Educations
 - *2024.09 - Present*: **Zhengzhou University (郑州大学)**, Ph.D. in Software Engineering.
