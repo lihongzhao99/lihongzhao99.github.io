@@ -22,6 +22,8 @@ I am currently a Ph.D. student at the School of Computer and Artificial Intellig
 
 My research interests primarily focus on **Transfer Learning** (specifically Domain Generalization), **Multimodal Learning**, and **Continual Learning**. 
 
+*I am always open to potential research collaborations and discussions, feel free to get in touch via email.*
+
 <!-- <a href='https://scholar.google.com/citations?user=iWCZj9wAAAAJ'>Google Scholar Profile <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 # 🔥 News
@@ -51,10 +53,8 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 
 # 🏛️ Academic Services
 <span class='anchor' id='academic-services'></span>
-
 **Journal Referee:**
 * IJCV, TNNLS, TASE, TCDS, TETCI, JBHI
-
 **Conference Reviewer:**
 * AAAI, ACM MM, ICME
 
@@ -66,4 +66,4 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 
 # 💻 Internships
 <span class='anchor' id='internships'></span>
-- *Currently seeking academic collaborations and internships.*
+- *I am actively seeking research internships or visiting opportunities. Feel free to contact me!*
