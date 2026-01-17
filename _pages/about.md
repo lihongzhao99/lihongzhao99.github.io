@@ -22,7 +22,9 @@ I am currently a Ph.D. student at the School of Computer and Artificial Intellig
 
 My research interests primarily focus on **Transfer Learning** (specifically Domain Generalization), **Multimodal Learning**, and **Continual Learning**. 
 
-*I am always open to potential research collaborations and discussions, feel free to get in touch via email. 📧 **Email:** lihongzhao@gs.zzu.edu.cn*
+*I am always open to potential research collaborations and discussions, feel free to get in touch via email.*
+
+*📧 **Email:** lihongzhao@gs.zzu.edu.cn*
 
 <!-- <a href='https://scholar.google.com/citations?user=iWCZj9wAAAAJ'>Google Scholar Profile <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
