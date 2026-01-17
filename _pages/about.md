@@ -15,8 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# 🙋‍♂️ About Me
 <span class='anchor' id='about-me'></span>
+# 🙋‍♂️ About Me
 
 I am currently a Ph.D. student at the School of Computer and Artificial Intelligence, **Zhengzhou University (郑州大学)**. I am fortunately advised by **[Prof. Mingliang Xu (徐明亮)](https://www7.zzu.edu.cn/csai/info/1234/2497.htm)** and **[Prof. Shupan Li (李书攀)](https://www.scopus.com/authid/detail.uri?authorId=56688691400)**. Concurrently, I am privileged to receive remote academic guidance from **[Prof. Muhammad Haris Khan](https://m-haris-khan.com/)** at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI).
 
@@ -26,8 +26,8 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 
 <!-- <a href='https://scholar.google.com/citations?user=iWCZj9wAAAAJ'>Google Scholar Profile <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-# 🔥 News
 <span class='anchor' id='news'></span>
+# 🔥 News
 - *2025.10*: &nbsp;🎉 One paper is accepted by **AAAI 2026** as an **Oral** presentation.
 - *2025.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2025**.
 - *2025.05*: &nbsp;🚀 One paper is accepted by **Expert Systems with Applications** (IF 7.5).
@@ -35,9 +35,8 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 - *2025.01*: &nbsp;🎉 One paper is accepted by **ICIC 2025** as an **Oral** presentation.
 - *2024.03*: &nbsp;🎉 One paper is accepted by **ICME 2024**.
 
-
-# 📝 Publications 
 <span class='anchor' id='publications'></span>
+# 📝 Publications 
 
 - **Hongzhao Li**, Guohao Shen, Shupan Li<sup>*</sup>, Mingliang Xu<sup>*</sup>, Muhammad Haris Khan. "Balancing Multimodal Domain Generalization via Gradient Modulation and Projection." **AAAI 2026**, **CCF-A**, **Oral**.
 - **Hongzhao Li**, Hualei Wan, Liangzhi Zhang, Mingyuan Jiu, Shupan Li<sup>*</sup>, Mingliang Xu<sup>*</sup>, Muhammad Haris Khan. "[Towards Robust Multimodal Domain Generalization via Modality-Domain Joint Adversarial Training](https://dl.acm.org/doi/abs/10.1145/3746027.3754954)." **ACM MM 2025**, **CCF-A**, **Oral**.
@@ -46,19 +45,20 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 - **Hongzhao Li**, Hongyu Wang, Xia Sun<sup>*</sup>, Hua He, Jun Feng<sup>*</sup>. "[Prompt-guided generation of structured chest X-ray report using a pre-trained LLM](https://ieeexplore.ieee.org/abstract/document/10687707)." **ICME 2024**, **CCF-B**.
 - **Hongzhao Li**, Liangzhi Zhang, Xiangrong Zhong, Jingpu Zhang, Shuo Feng, Shupan Li<sup>*</sup>. "[Multi-Modality and Multi-Grained Transformer for Accurate Radiology Report Generation](https://link.springer.com/chapter/10.1007/978-981-95-0033-8_8)." **ICIC 2025**, **CCF-C**, **Oral**.
 
-# 🎖 Honors and Awards
 <span class='anchor' id='honors-and-awards'></span>
+# 🎖 Honors and Awards
 - *2025.10* Principal Investigator, **the Natural Science Foundation of Henan Provincial** (Youth Student Project). (主持河南省自然科学基金-青年学生项目)
 - *2025.09* First-class Ph.D. Scholarship, Zhengzhou University.
 - *2024.09* First-class Ph.D. Scholarship, Zhengzhou University.
 
-# 🏛️ Academic Services
+
 <span class='anchor' id='academic-services'></span>
+# 🏛️ Academic Services
 - **Journal Reviewer:** IJCV, TNNLS, TASE, TCDS, TETCI, JBHI
 - **Conference Reviewer:** AAAI, ACM MM, ICME
 
-# 📖 Educations
 <span class='anchor' id='educations'></span>
+# 📖 Educations
 - *2024.09 - Present*: **Zhengzhou University (郑州大学)**, Ph.D. in Software Engineering.
 - *2021.09 - 2024.06*: **Northwest University (西北大学)**, M.S. in Computer Science and Technology.
 - *2017.09 - 2021.06*: **Henan University (河南大学)**, B.E. in Software Engineering.
