@@ -25,6 +25,7 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 <!-- <a href='https://scholar.google.com/citations?user=iWCZj9wAAAAJ'>Google Scholar Profile <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 # 🔥 News
+<span class='anchor' id='news'></span>
 - *2025.10*: &nbsp;🎉 One paper is accepted by **AAAI 2026** as an **Oral** presentation.
 - *2025.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2025**.
 - *2025.05*: &nbsp;🚀 One paper is accepted by **Expert Systems with Applications** (IF 7.5).
@@ -34,7 +35,7 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 
 
 # 📝 Publications 
-
+<span class='anchor' id='#publications'></span>
 - **Hongzhao Li**, Guohao Shen, Shupan Li<sup>*</sup>, Mingliang Xu<sup>*</sup>, Muhammad Haris Khan. "Balancing Multimodal Domain Generalization via Gradient Modulation and Projection." **AAAI 2026**, **CCF-A**, **Oral**.
 - **Hongzhao Li**, Hualei Wan, Liangzhi Zhang, Mingyuan Jiu, Shupan Li<sup>*</sup>, Mingliang Xu<sup>*</sup>, Muhammad Haris Khan. "[Towards Robust Multimodal Domain Generalization via Modality-Domain Joint Adversarial Training](https://dl.acm.org/doi/abs/10.1145/3746027.3754954)." **ACM MM 2025**, **CCF-A**, **Oral**.
 - **Hongzhao Li**, Siwei Liu, Hui Wang, Xiaoheng Jiang, Mingyuan Jiu, Li Chen, Yang Lu, Shupan Li<sup>*</sup>, Mingliang Xu<sup>*</sup>. "[RRGMambaFormer: A hybrid Transformer-Mamba architecture for radiology report generation](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010413)." **Expert Systems with Applications**, 2025, **Q1 (CAS/JCR)**, **IF 7.5**.
@@ -43,6 +44,7 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 - **Hongzhao Li**, Liangzhi Zhang, Xiangrong Zhong, Jingpu Zhang, Shuo Feng, Shupan Li<sup>*</sup>. "[Multi-Modality and Multi-Grained Transformer for Accurate Radiology Report Generation](https://link.springer.com/chapter/10.1007/978-981-95-0033-8_8)." **ICIC 2025**, **CCF-C**, **Oral**.
 
 # 🎖 Honors and Awards
+<span class='anchor' id='honors-and-awards'></span>
 - *2025.10* Principal Investigator, **the Natural Science Foundation of Henan Provincial** (Youth Student Project). (主持河南省自然科学基金-青年学生项目)
 - *2025.09* First-class Ph.D. Scholarship, Zhengzhou University.
 - *2024.09* First-class Ph.D. Scholarship, Zhengzhou University.
@@ -51,15 +53,17 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 <span class='anchor' id='academic-services'></span>
 
 **Journal Referee:**
-* IJCV, JBHI, TNNLS, TASE, TCDS, TETCI
+* IJCV, TNNLS, TASE, TCDS, TETCI, JBHI
 
 **Conference Reviewer:**
 * AAAI, ACM MM, ICME
 
 # 📖 Educations
+<span class='anchor' id='educations'></span>
 - *2024.09 - Present*: **Zhengzhou University (郑州大学)**, Ph.D. in Software Engineering.
 - *2021.09 - 2024.06*: **Northwest University (西北大学)**, M.S. in Computer Science and Technology.
 - *2017.09 - 2021.06*: **Henan University (河南大学)**, B.E. in Software Engineering.
 
 # 💻 Internships
+<span class='anchor' id='internships'></span>
 - *Currently seeking academic collaborations and internships.*
