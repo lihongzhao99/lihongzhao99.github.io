@@ -17,59 +17,42 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 关于我 (About Me)
+I am currently a first-year Ph.D. student at the School of Computer and Artificial Intelligence, **Zhengzhou University (郑州大学)**. I am fortunately advised by **Prof. Mingliang Xu (徐明亮)** and **Prof. Shupan Li (李书攀)**. Concurrently, I am privileged to receive remote academic guidance from **Prof. Muhammad Haris Khan** at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). 
 
-我目前是 **郑州大学** 软件工程专业的在读博士生。在此之前，我在 **西北大学** 获得了计算机科学与技术硕士学位，并在 **河南大学** 完成了软件工程本科学业。
+Prior to my doctoral studies, I obtained my Master's degree in Computer Science and Technology from **Northwest University (西北大学)** in 2024, where I was supervised by **Prof. Jun Feng (冯筠)**. I received my Bachelor's degree in Software Engineering from **Henan University (河南大学)** in 2021.
 
-我的研究兴趣主要集中在 **多模态领域泛化 (Multimodal Domain Generalization)**、**医学图像分析** 以及 **放射报告生成 (Radiology Report Generation)**。目前已在 AAAI, ACM MM, ESWA, KBS 等国际顶级会议和期刊上发表多篇论文。
+My research interests primarily focus on **Transfer Learning** (specifically Domain Generalization), **Multimodal Learning**, and **Continual Learning**. I have published several papers in top-tier conferences and journals, including AAAI, ACM MM, and Knowledge-Based Systems.
 
-<a href='https://scholar.google.com/citations?user=iWCZj9wAAAAJ'>
-  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>
+<a href='https://scholar.google.com/citations?user=iWCZj9wAAAAJ'>Google Scholar Profile <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-# 🔥 新闻 (News)
-- *2025.12*: &nbsp;🎉 我们的论文 "Balancing Multimodal Domain Generalization via Gradient Modulation and Projection" 被 **AAAI 2026** 接收并选为 **Oral** 演示。
-- *2025.07*: &nbsp;🎉 我们的论文 "Towards Robust Multimodal Domain Generalization..." 被 **ACM MM 2025** 接收。
-- *2024.09*: &nbsp;🚀 开启在郑州大学的博士研究生涯。
 
-# 📝 论文发表 (Selected Publications) 
+# 🔥 News
+- *2025.10*: &nbsp;🎉🎉 One paper regarding Balancing Multimodal Domain Generalization is accepted by **AAAI 2026** as an **Oral** presentation.
+- *2025.07*: &nbsp;🎉🎉 One paper regarding Robust Multimodal Domain Generalization is accepted by **ACM MM 2025**.
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">AAAI 2026 (Oral)</div>
-      <img src='images/aaai26.png' alt="AAAI 2026" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+# 📝 Publications 
 
-[Balancing Multimodal Domain Generalization via Gradient Modulation and Projection](https://scholar.google.com/citations?user=iWCZj9wAAAAJ)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/mm2025.png' alt="ACM MM 2025" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-**Hongzhao Li**, et al.
+[Towards Robust Multimodal Domain Generalization via Modality-Domain Joint Adversarial Training](https://scholar.google.com/citations?user=iWCZj9wAAAAJ)
 
-- 提出了梯度调制与投影技术，用于平衡多模态学习中的领域泛化问题。
-- 被人工智能顶级会议 AAAI 2026 接收为 Oral 论文 (CCF-A)。
+**Hongzhao Li (李鸿钊)**, et al.
+
+[**Project**](https://scholar.google.com/citations?user=iWCZj9wAAAAJ) 
+- This work proposes a joint adversarial training framework to enhance the robustness of multimodal models against domain shifts.
 </div>
 </div>
 
-### 更多论文 (More Publications)
+*(More publications can be found in my CV or Google Scholar)*
 
-- **Towards Robust Multimodal Domain Generalization via Modality-Domain Joint Adversarial Training**, **Hongzhao Li**, et al., **ACM MM 2025** (CCF-A)
-- **RRGMambaFormer: A hybrid Transformer-Mamba architecture for radiology report generation**, **Hongzhao Li**, et al., **Expert Systems with Applications**, 2025 (Q1, IF: 7.5)
-- **Context-enhanced framework for medical image report generation using multimodal contexts**, **Hongzhao Li**, et al., **Knowledge-Based Systems**, 2025 (Q1, IF: 7.2)
-- **Prompt-guided generation of structured chest X-ray report using a pre-trained LLM**, **Hongzhao Li**, et al., **ICME 2024** (CCF-B)
-- **Multi-Modality and Multi-Grained Transformer for Accurate Radiology Report Generation**, **Hongzhao Li**, et al., **ICIC 2025** (CCF-C, Oral)
+# 🎖 Honors and Awards
+- *2024.09* Ph.D. Scholarship, Zhengzhou University.
 
-# 🎓 教育经历 (Educations)
-- *2024.09 - 至今*, **郑州大学**, 软件工程, 博士
-- *2021.09 - 2024.07*, **西北大学**, 计算机科学与技术, 硕士
-- *2017.09 - 2021.07*, **河南大学**, 软件工程, 本科
+# 📖 Educations
+- *2024.09 - Present*: **Zhengzhou University (郑州大学)**, Ph.D. in Software Engineering.
+- *2021.09 - 2024.07*: **Northwest University (西北大学)**, M.S. in Computer Science and Technology.
+- *2017.09 - 2021.07*: **Henan University (河南大学)**, B.E. in Software Engineering.
 
-# 👨‍🏫 导师与合作者 (Supervisors)
-- **博士生导师**: [李舒攀](https://scholar.google.com/citations?user=iWCZj9wAAAAJ) (郑州大学), [徐明亮](https://scholar.google.com/citations?user=iWCZj9wAAAAJ) (郑州大学教授/院长)
-- **硕士生导师**: [冯筠](https://scholar.google.com/citations?user=iWCZj9wAAAAJ) (西北大学教授)
-- **学术合作者**: [Muhammad Haris Khan](https://scholar.google.com/citations?user=iWCZj9wAAAAJ) (MBZUAI)
-
-# 💻 学术服务 (Academic Service)
-- **期刊审稿人**: IJCV, TNNLS, TASE, TCDS, TETCI
-- **会议审稿人**: AAAI, ACM MM, ICME
+# 💻 Internships
+- *Currently seeking academic collaborations and internships.*
