@@ -31,7 +31,7 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.12*: &nbsp;🤝 Honored to host Prof. **[Weinan Zhang (张伟楠)](https://wnzhang.net/)** (SJTU) during his visit to Zhengzhou. Deeply grateful for his inspiring academic guidance.
-- *2025.12*: &nbsp;✨ A wonderful experience hosting Prof. **[Chi Liu (刘驰)](https://cs.bit.edu.cn/szdw/jsml/bssds/e99eddb6f93f4c1f9388bea0b4f9979e.htm)** (BIT) in Zhengzhou. Sincerely thankful for his generous guidance and mentorship.
+- *2025.12*: &nbsp;✨ Honored to host Prof. **[Chi Liu (刘驰)](https://cs.bit.edu.cn/szdw/jsml/bssds/e99eddb6f93f4c1f9388bea0b4f9979e.htm)** (BIT) during his visit to Zhengzhou. Deeply grateful for his generous academic guidance.
 - *2025.10*: &nbsp;🎉 One paper is accepted by **AAAI 2026** as an **Oral** presentation.
 - *2025.10*: &nbsp;🎊 **Grant**: Awarded as Principal Investigator for **the Natural Science Foundation of Henan Provincial** (Youth Student Project).
 - *2025.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2025** as an **Oral** presentation.
