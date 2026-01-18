@@ -30,7 +30,10 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2025.12*: &nbsp;🤝 Honored to host Prof. **[Weinan Zhang (张伟楠)](https://wnzhang.net/)** (SJTU) during his visit to Zhengzhou. Deeply grateful for his inspiring academic guidance.
+- *2025.12*: &nbsp;✨ A wonderful experience hosting Prof. **[Chi Liu (刘驰)](https://cs.bit.edu.cn/szdw/jsml/bssds/e99eddb6f93f4c1f9388bea0b4f9979e.htm)** (BIT) in Zhengzhou. Sincerely thankful for his generous guidance and mentorship.
 - *2025.10*: &nbsp;🎉 One paper is accepted by **AAAI 2026** as an **Oral** presentation.
+- *2025.10*: &nbsp;🎊 **Grant**: Awarded as Principal Investigator for **the Natural Science Foundation of Henan Provincial** (Youth Student Project).
 - *2025.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2025** as an **Oral** presentation.
 - *2025.05*: &nbsp;🚀 One paper is accepted by **Expert Systems with Applications** (IF 7.5).
 - *2025.03*: &nbsp;🚀 One paper is accepted by **Knowledge-Based Systems** (IF 7.2).
@@ -58,6 +61,10 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 # 🏛️ Academic Services
 - **Journal Reviewer:** IJCV, TNNLS, TASE, TCDS, TETCI, JBHI
 - **Conference Reviewer:** AAAI, ACM MM, ICME
+- **Conference Service:**
+  - **[The 3rd National Conference on Virtual-Real Integration and Interaction](https://www.c2.org.cn/h-nd-2504.html)** (2025.12): Immensely enjoyed my time with Prof. **[Chi Liu (刘驰)](https://cs.bit.edu.cn/szdw/jsml/bssds/e99eddb6f93f4c1f9388bea0b4f9979e.htm)** (BIT), and I am sincerely thankful for his generous mentorship and invaluable advice on academic writing.
+  - **[The 6th NSFC Forum for PIs of Young Scientists Fund in AI (Category B)](https://www.zzu.edu.cn/info/1217/87300.htm)** (2025.12): Had the privilege of hosting Prof. **[Weinan Zhang (张伟楠)](https://wnzhang.net/)** (SJTU). I am deeply grateful for our enlightening discussions on Reinforcement Learning, which greatly broadened my research horizons.
+  - **[CIE 2024 Symposium on Generative AI Technology](https://www.zzu.edu.cn/info/1217/84745.htm)** (2024.11): Assisted in the conference organization and was honored to serve and learn from distinguished academicians and senior scholars in the field.
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
