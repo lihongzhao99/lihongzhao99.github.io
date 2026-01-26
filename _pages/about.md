@@ -50,7 +50,7 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 - **Hongzhao Li**, Hongyu Wang, Xia Sun, Hua He<sup>#</sup>, Jun Feng<sup>#</sup>. "[Context-enhanced framework for medical image report generation using multimodal contexts](https://www.sciencedirect.com/science/article/abs/pii/S0950705124015478)." **Knowledge-Based Systems**, 2025, **Q1 (CAS/JCR)**, **IF 7.2**.
 - **Hongzhao Li**, Hongyu Wang, Xia Sun<sup>#</sup>, Hua He, Jun Feng<sup>#</sup>. "[Prompt-guided generation of structured chest X-ray report using a pre-trained LLM](https://ieeexplore.ieee.org/abstract/document/10687707)." **ICME 2024**, **CCF-B**.
 - **Hongzhao Li**, Liangzhi Zhang, Xiangrong Zhong, Jingpu Zhang, Shuo Feng, Shupan Li<sup>#</sup>. "[Multi-Modality and Multi-Grained Transformer for Accurate Radiology Report Generation](https://link.springer.com/chapter/10.1007/978-981-95-0033-8_8)." **ICIC 2025**, **CCF-C**, **Oral**.
-<!-- - Guohao Shen, **Hongzhao Li**, Hao Yang, Xianglong Shen, Jingya Dong, and Shupan Li<sup>#</sup>. "AS-Mamba: Multimodal Semantic Segmentation via Mamba with Asymmetric Cross and Spatial Perception." **IEEE ICPADS 2025**, **CCF-C**, **Oral**.-->
+- Guohao Shen, **Hongzhao Li**, Hao Yang, Xianglong Shen, Jingya Dong, and Shupan Li<sup>#</sup>. "[AS-Mamba: Multimodal Semantic Segmentation via Mamba with Asymmetric Cross and Spatial Perception](https://ieeexplore.ieee.org/abstract/document/11323107)." **IEEE ICPADS 2025**, **CCF-C**, **Oral**.
 
 
 <span class='anchor' id='honors-and-awards'></span>
