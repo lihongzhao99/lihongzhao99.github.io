@@ -20,7 +20,7 @@ redirect_from:
 
 I am currently a Ph.D. student at the School of Computer and Artificial Intelligence, **Zhengzhou University (郑州大学)**. I am fortunately advised by Prof. **[Mingliang Xu (徐明亮)](https://www7.zzu.edu.cn/csai/info/1234/2497.htm)** and Prof. **[Shupan Li (李书攀)](https://www.scopus.com/authid/detail.uri?authorId=56688691400)**. Concurrently, I am privileged to receive remote academic guidance from Prof. **[Muhammad Haris Khan](https://m-haris-khan.com/)** at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI).
 
-My research interests primarily focus on **Transfer Learning** (specifically Domain Generalization), **Multimodal Learning**, and **Continual Learning**. 
+My research interests primarily focus on **Domain Generalization** and **Multimodal Learning**. 
 
 *I am always open to potential research collaborations and discussions, feel free to get in touch via email.*
 
@@ -30,6 +30,7 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.03*: &nbsp;🎊 Invited to serve as **Area Chair** for **ICIC 2026**.
 - *2026.02*: &nbsp;🎉 One paper is accepted by **CVPR 2026**.
 - *2025.12*: &nbsp;🤝 Honored to host Prof. **[Chi Liu (刘驰)](https://cs.bit.edu.cn/szdw/jsml/bssds/e99eddb6f93f4c1f9388bea0b4f9979e.htm)** (BIT) during his visit to Zhengzhou. Deeply grateful for his generous academic guidance.
 - *2025.12*: &nbsp;🤝 Honored to host Prof. **[Weinan Zhang (张伟楠)](https://wnzhang.net/)** (SJTU) during his visit to Zhengzhou. Deeply grateful for his inspiring academic guidance.
@@ -64,8 +65,9 @@ My research interests primarily focus on **Transfer Learning** (specifically Dom
 
 <span class='anchor' id='academic-services'></span>
 # 🏛️ Academic Services
+- **Area Chair:** ICIC 2026
 - **Journal Reviewer:** IJCV, TNNLS, TASE, TCDS, TETCI, JBHI
-- **Conference Reviewer:** AAAI, ACM MM, ICME
+- **Conference Reviewer:** AAAI, ACM MM, ICME, MICCAI
 - **Conference Service:**
   - *2025.12* &nbsp; **[The 3rd National Conference on Virtual-Real Integration and Interaction](https://www.c2.org.cn/h-nd-2504.html)**: Immensely enjoyed my time with Prof. **[Chi Liu (刘驰)](https://cs.bit.edu.cn/szdw/jsml/bssds/e99eddb6f93f4c1f9388bea0b4f9979e.htm)** (BIT), and I am sincerely thankful for his generous mentorship and invaluable advice on academic writing.
   - *2025.12* &nbsp; **[The 6th NSFC Forum for PIs of Young Scientists Fund in AI (Category B)](https://www.zzu.edu.cn/info/1217/87300.htm)**: Had the privilege of hosting Prof. **[Weinan Zhang (张伟楠)](https://wnzhang.net/)** (SJTU). I am deeply grateful for our enlightening discussions on Reinforcement Learning, which greatly broadened my research horizons.
