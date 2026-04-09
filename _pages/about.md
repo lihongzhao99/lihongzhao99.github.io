@@ -30,7 +30,7 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.04*: &nbsp;🌟 CVPR 2026 paper selected as <span style="color: #f1c40f;">**Highlight**</span>!
+- *2026.04*: &nbsp;🌟 CVPR 2026 paper selected as <span style="color: #e74c3c;">**Highlight**</span>!
 - *2026.03*: &nbsp;🎊 Invited to serve as **Area Chair** for **ICIC 2026**.
 - *2026.02*: &nbsp;🎉 One paper is accepted by **CVPR 2026**.
 - *2025.12*: &nbsp;🤝 Honored to host Prof. **[Chi Liu (刘驰)](https://cs.bit.edu.cn/szdw/jsml/bssds/e99eddb6f93f4c1f9388bea0b4f9979e.htm)** (BIT) during his visit to Zhengzhou. Deeply grateful for his generous academic guidance.
@@ -47,7 +47,7 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
-- **Hongzhao Li**, Hao Dong, Hualei Wan, Shupan Li<sup>#</sup>, Mingliang Xu<sup>#</sup>, Muhammad Haris Khan. "[Towards Multimodal Domain Generalization with Few Labels](https://arxiv.org/abs/2602.22917)." **CVPR 2026**, **CCF-A**, <span style="color: #f1c40f;">**Highlight**</span>.
+- **Hongzhao Li**, Hao Dong, Hualei Wan, Shupan Li<sup>#</sup>, Mingliang Xu<sup>#</sup>, Muhammad Haris Khan. "[Towards Multimodal Domain Generalization with Few Labels](https://arxiv.org/abs/2602.22917)." **CVPR 2026**, **CCF-A**, <span style="color: #e74c3c;">**Highlight**</span>.
 - **Hongzhao Li**, Guohao Shen, Shupan Li<sup>#</sup>, Mingliang Xu<sup>#</sup>, Muhammad Haris Khan. "[Balancing Multimodal Domain Generalization via Gradient Modulation and Projection](https://arxiv.org/abs/2603.14175)." **AAAI 2026**, **CCF-A**, <span style="color: #e74c3c;">**Oral**</span>.
 - **Hongzhao Li**, Hualei Wan, Liangzhi Zhang, Mingyuan Jiu, Shupan Li<sup>#</sup>, Mingliang Xu<sup>#</sup>, Muhammad Haris Khan. "[Towards Robust Multimodal Domain Generalization via Modality-Domain Joint Adversarial Training](https://dl.acm.org/doi/abs/10.1145/3746027.3754954)." **ACM MM 2025**, **CCF-A**, <span style="color: #e74c3c;">**Oral**</span>.
 - **Hongzhao Li**, Siwei Liu, Hui Wang, Xiaoheng Jiang, Mingyuan Jiu, Li Chen, Yang Lu, Shupan Li<sup>#</sup>, Mingliang Xu<sup>#</sup>. "[RRGMambaFormer: A hybrid Transformer-Mamba architecture for radiology report generation](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010413)." **Expert Systems with Applications**, 2025, **Q1 (CAS/JCR)**, **IF 7.5**.
