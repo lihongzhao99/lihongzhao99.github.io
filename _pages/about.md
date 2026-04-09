@@ -30,30 +30,31 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.04*: &nbsp;🌟 CVPR 2026 paper selected as <span style="color: #f1c40f;">**Highlight**</span>!
 - *2026.03*: &nbsp;🎊 Invited to serve as **Area Chair** for **ICIC 2026**.
 - *2026.02*: &nbsp;🎉 One paper is accepted by **CVPR 2026**.
 - *2025.12*: &nbsp;🤝 Honored to host Prof. **[Chi Liu (刘驰)](https://cs.bit.edu.cn/szdw/jsml/bssds/e99eddb6f93f4c1f9388bea0b4f9979e.htm)** (BIT) during his visit to Zhengzhou. Deeply grateful for his generous academic guidance.
 - *2025.12*: &nbsp;🤝 Honored to host Prof. **[Weinan Zhang (张伟楠)](https://wnzhang.net/)** (SJTU) during his visit to Zhengzhou. Deeply grateful for his inspiring academic guidance.
-- *2025.10*: &nbsp;🎉 One paper is accepted by **AAAI 2026** as an **Oral** presentation.
+- *2025.10*: &nbsp;🎉 One paper is accepted by **AAAI 2026** as an <span style="color: #e74c3c;">**Oral**</span> presentation.
 - *2025.10*: &nbsp;✨ **Grant**: Awarded as Principal Investigator for **the Natural Science Foundation of Henan Provincial** (Youth Student Project).
-- *2025.10*: &nbsp;🧑‍🤝‍🧑 One paper is accepted by **IEEE ICPADS 2025** as an **Oral** presentation. Congrats to Guohao!
-- *2025.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2025** as an **Oral** presentation.
+- *2025.10*: &nbsp;🧑‍🤝‍🧑 One paper is accepted by **IEEE ICPADS 2025** as an <span style="color: #e74c3c;">**Oral**</span> presentation.
+- *2025.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2025** as an <span style="color: #e74c3c;">**Oral**</span> presentation.
 - *2025.05*: &nbsp;🚀 One paper is accepted by **Expert Systems with Applications** (IF 7.5).
 - *2025.03*: &nbsp;🚀 One paper is accepted by **Knowledge-Based Systems** (IF 7.2).
-- *2025.01*: &nbsp;🎉 One paper is accepted by **ICIC 2025** as an **Oral** presentation.
+- *2025.01*: &nbsp;🎉 One paper is accepted by **ICIC 2025** as an <span style="color: #e74c3c;">**Oral**</span> presentation.
 - *2024.03*: &nbsp;🎉 One paper is accepted by **ICME 2024**.
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
-- **Hongzhao Li**, Hao Dong, Hualei Wan, Shupan Li<sup>#</sup>, Mingliang Xu<sup>#</sup>, Muhammad Haris Khan. "[Towards Multimodal Domain Generalization with Few Labels](https://arxiv.org/abs/2602.22917)." **CVPR 2026**, **CCF-A**.
-- **Hongzhao Li**, Guohao Shen, Shupan Li<sup>#</sup>, Mingliang Xu<sup>#</sup>, Muhammad Haris Khan. "[Balancing Multimodal Domain Generalization via Gradient Modulation and Projection](https://arxiv.org/abs/2603.14175)." **AAAI 2026**, **CCF-A**, **Oral**.
-- **Hongzhao Li**, Hualei Wan, Liangzhi Zhang, Mingyuan Jiu, Shupan Li<sup>#</sup>, Mingliang Xu<sup>#</sup>, Muhammad Haris Khan. "[Towards Robust Multimodal Domain Generalization via Modality-Domain Joint Adversarial Training](https://dl.acm.org/doi/abs/10.1145/3746027.3754954)." **ACM MM 2025**, **CCF-A**, **Oral**.
+- **Hongzhao Li**, Hao Dong, Hualei Wan, Shupan Li<sup>#</sup>, Mingliang Xu<sup>#</sup>, Muhammad Haris Khan. "[Towards Multimodal Domain Generalization with Few Labels](https://arxiv.org/abs/2602.22917)." **CVPR 2026**, **CCF-A**, <span style="color: #f1c40f;">**Highlight**</span>.
+- **Hongzhao Li**, Guohao Shen, Shupan Li<sup>#</sup>, Mingliang Xu<sup>#</sup>, Muhammad Haris Khan. "[Balancing Multimodal Domain Generalization via Gradient Modulation and Projection](https://arxiv.org/abs/2603.14175)." **AAAI 2026**, **CCF-A**, <span style="color: #e74c3c;">**Oral**</span>.
+- **Hongzhao Li**, Hualei Wan, Liangzhi Zhang, Mingyuan Jiu, Shupan Li<sup>#</sup>, Mingliang Xu<sup>#</sup>, Muhammad Haris Khan. "[Towards Robust Multimodal Domain Generalization via Modality-Domain Joint Adversarial Training](https://dl.acm.org/doi/abs/10.1145/3746027.3754954)." **ACM MM 2025**, **CCF-A**, <span style="color: #e74c3c;">**Oral**</span>.
 - **Hongzhao Li**, Siwei Liu, Hui Wang, Xiaoheng Jiang, Mingyuan Jiu, Li Chen, Yang Lu, Shupan Li<sup>#</sup>, Mingliang Xu<sup>#</sup>. "[RRGMambaFormer: A hybrid Transformer-Mamba architecture for radiology report generation](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010413)." **Expert Systems with Applications**, 2025, **Q1 (CAS/JCR)**, **IF 7.5**.
 - **Hongzhao Li**, Hongyu Wang, Xia Sun, Hua He<sup>#</sup>, Jun Feng<sup>#</sup>. "[Context-enhanced framework for medical image report generation using multimodal contexts](https://www.sciencedirect.com/science/article/abs/pii/S0950705124015478)." **Knowledge-Based Systems**, 2025, **Q1 (CAS/JCR)**, **IF 7.2**.
 - **Hongzhao Li**, Hongyu Wang, Xia Sun<sup>#</sup>, Hua He, Jun Feng<sup>#</sup>. "[Prompt-guided generation of structured chest X-ray report using a pre-trained LLM](https://ieeexplore.ieee.org/abstract/document/10687707)." **ICME 2024**, **CCF-B**.
-- **Hongzhao Li**, Liangzhi Zhang, Xiangrong Zhong, Jingpu Zhang, Shuo Feng, Shupan Li<sup>#</sup>. "[Multi-Modality and Multi-Grained Transformer for Accurate Radiology Report Generation](https://link.springer.com/chapter/10.1007/978-981-95-0033-8_8)." **ICIC 2025**, **CCF-C**, **Oral**.
-- Guohao Shen, **Hongzhao Li**, Hao Yang, Xianglong Shen, Jingya Dong, and Shupan Li<sup>#</sup>. "[AS-Mamba: Multimodal Semantic Segmentation via Mamba with Asymmetric Cross and Spatial Perception](https://ieeexplore.ieee.org/abstract/document/11323107)." **IEEE ICPADS 2025**, **CCF-C**, **Oral**.
+- **Hongzhao Li**, Liangzhi Zhang, Xiangrong Zhong, Jingpu Zhang, Shuo Feng, Shupan Li<sup>#</sup>. "[Multi-Modality and Multi-Grained Transformer for Accurate Radiology Report Generation](https://link.springer.com/chapter/10.1007/978-981-95-0033-8_8)." **ICIC 2025**, **CCF-C**, <span style="color: #e74c3c;">**Oral**</span>.
+- Guohao Shen, **Hongzhao Li**, Hao Yang, Xianglong Shen, Jingya Dong, and Shupan Li<sup>#</sup>. "[AS-Mamba: Multimodal Semantic Segmentation via Mamba with Asymmetric Cross and Spatial Perception](https://ieeexplore.ieee.org/abstract/document/11323107)." **IEEE ICPADS 2025**, **CCF-C**, <span style="color: #e74c3c;">**Oral**</span>.
 
 
 <span class='anchor' id='honors-and-awards'></span>
