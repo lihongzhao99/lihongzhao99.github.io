@@ -30,6 +30,7 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.04*: &nbsp;🎉 Three papers are accepted by **ICIC 2026** as <span style="color: #e74c3c;">**Oral presentations**</span>. Congratulations to Bingqian, Hualei and Xianglong!
 - *2026.04*: &nbsp;🌟 CVPR 2026 paper selected as <span style="color: #e74c3c;">**Highlight**</span>!
 - *2026.03*: &nbsp;🎊 Invited to serve as **Area Chair** for **ICIC 2026**.
 - *2026.02*: &nbsp;🎉 One paper is accepted by **CVPR 2026**.
@@ -37,7 +38,7 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 - *2025.12*: &nbsp;🤝 Honored to host Prof. **[Weinan Zhang (张伟楠)](https://wnzhang.net/)** (SJTU) during his visit to Zhengzhou. Deeply grateful for his inspiring academic guidance.
 - *2025.10*: &nbsp;🎉 One paper is accepted by **AAAI 2026** as an <span style="color: #e74c3c;">**Oral**</span> presentation.
 - *2025.10*: &nbsp;✨ **Grant**: Awarded as Principal Investigator for **the Natural Science Foundation of Henan Provincial** (Youth Student Project).
-- *2025.10*: &nbsp;🧑‍🤝‍🧑 One paper is accepted by **IEEE ICPADS 2025** as an <span style="color: #e74c3c;">**Oral**</span> presentation.
+- *2025.10*: &nbsp;🧑‍🤝‍🧑 One paper is accepted by **IEEE ICPADS 2025** as an <span style="color: #e74c3c;">**Oral**</span> presentation. Congratulations to Guohao!
 - *2025.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2025** as an <span style="color: #e74c3c;">**Oral**</span> presentation.
 - *2025.05*: &nbsp;🚀 One paper is accepted by **Expert Systems with Applications** (IF 7.5).
 - *2025.03*: &nbsp;🚀 One paper is accepted by **Knowledge-Based Systems** (IF 7.2).
