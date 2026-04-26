@@ -30,7 +30,7 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.04*: &nbsp;🎉 Three papers are accepted by **ICIC 2026** as <span style="color: #e74c3c;">**Oral presentations**</span>. Congratulations to Bingqian, Hualei and Xianglong!
+- *2026.04*: &nbsp;🎉 Three papers are accepted by **ICIC 2026** as <span style="color: #e74c3c;">**Oral**</span> presentations. Congratulations to Bingqian, Hualei and Xianglong!
 - *2026.04*: &nbsp;🌟 CVPR 2026 paper selected as <span style="color: #e74c3c;">**Highlight**</span>!
 - *2026.03*: &nbsp;🎊 Invited to serve as **Area Chair** for **ICIC 2026**.
 - *2026.02*: &nbsp;🎉 One paper is accepted by **CVPR 2026**.
