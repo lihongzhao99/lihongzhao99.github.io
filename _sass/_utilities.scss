@@ -186,6 +186,28 @@ body:hover .visually-hidden button {
     color: #000;
   }
 
+  .fa-map-marker,
+  .fa-map-marker-alt {
+    color: #e74c3c;
+  }
+
+  .fa-university {
+    color: $info-color;
+  }
+
+  .fa-envelope {
+    color: #d44638;
+  }
+
+  .ai-google-scholar {
+    color: #4285f4;
+  }
+
+  .ai-orcid,
+  .ai-orcid-square {
+    color: #a6ce39;
+  }
+
   .fa-behance,
   .fa-behance-square {
     color: $behance-color;
