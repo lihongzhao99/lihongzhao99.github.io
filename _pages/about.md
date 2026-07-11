@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🙋‍♂️ About Me
 
-I am currently a Ph.D. student at the School of Computer and Artificial Intelligence, **Zhengzhou University (郑州大学)**. I am fortunately advised by Prof. **[Mingliang Xu (徐明亮)](https://www7.zzu.edu.cn/csai/info/1234/2497.htm)** and Prof. **[Shupan Li (李书攀)](https://www.scopus.com/authid/detail.uri?authorId=56688691400)**. Concurrently, I am privileged to receive remote academic guidance from Prof. **[Muhammad Haris Khan](https://m-haris-khan.com/)** at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI).
+I am currently a Ph.D. student at the School of Computer and Artificial Intelligence, **Zhengzhou University (郑州大学)**, under the supervision of Prof. **[Mingliang Xu (徐明亮)](https://www7.zzu.edu.cn/csai/info/1234/2497.htm)** and Prof. **[Shupan Li (李书攀)](https://www.scopus.com/authid/detail.uri?authorId=56688691400)**.
+
+I am also privileged to receive remote academic guidance from Prof. **[Muhammad Haris Khan](https://m-haris-khan.com/)** at the **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)** and Prof. **[Hao Dong (董浩)](https://donghao51.github.io/)** at the **ELLIS Institute Finland** and **Tampere University**.
 
 My research interests primarily focus on **Domain Generalization** and **Multimodal Learning**. 
 
@@ -30,6 +32,7 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2026**.
 - *2026.04*: &nbsp;🎉 Three papers are accepted by **ICIC 2026** as <span style="color: #e74c3c;">**Oral**</span> presentations. Congratulations to Bingqian, Hualei and Xianglong!
 - *2026.04*: &nbsp;🌟 CVPR 2026 paper selected as <span style="color: #e74c3c;">**Highlight**</span>!
 - *2026.03*: &nbsp;🎊 Invited to serve as **Area Chair** for **ICIC 2026**.
@@ -67,9 +70,30 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 
 <span class='anchor' id='academic-services'></span>
 # 🏛️ Academic Services
-- **Area Chair:** ICIC 2026
-- **Journal Reviewer:** IJCV, TNNLS, TASE, TCDS, TETCI, JBHI
-- **Conference Reviewer:** AAAI, ACM MM, ICME, MICCAI
+* **Area Chair:**
+  International Conference on Intelligent Computing (ICIC 2026)
+
+* **Conference Reviewer:**
+  AAAI Conference on Artificial Intelligence (AAAI)
+  ACM International Conference on Multimedia (ACM MM)
+  International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
+  IEEE International Conference on Multimedia and Expo (ICME)
+  International Joint Conference on Neural Networks (IJCNN)
+
+* **Journal Reviewer:**
+  International Journal of Computer Vision (IJCV)
+  IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+  IEEE Transactions on Automation Science and Engineering (TASE)
+  IEEE Transactions on Cognitive and Developmental Systems (TCDS)
+  IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
+  IEEE Journal of Biomedical and Health Informatics (JBHI)
+  Engineering Applications of Artificial Intelligence (EAAI)
+  Knowledge-Based Systems (KBS)
+  Artificial Intelligence in Medicine (AIIM)
+  Biomedical Signal Processing and Control (BSPC)
+  Informatics in Medicine Unlocked (IMU)
+  Array
+  
 - **Conference Service:**
   - *2025.12* &nbsp; **[The 3rd National Conference on Virtual-Real Integration and Interaction](https://www.c2.org.cn/h-nd-2504.html)**: Immensely enjoyed my time with Prof. **[Chi Liu (刘驰)](https://cs.bit.edu.cn/szdw/jsml/bssds/e99eddb6f93f4c1f9388bea0b4f9979e.htm)** (BIT), and I am sincerely thankful for his generous mentorship and invaluable advice on academic writing.
   - *2025.12* &nbsp; **[The 6th NSFC Forum for PIs of Young Scientists Fund in AI (Category B)](https://www.zzu.edu.cn/info/1217/87300.htm)**: Had the privilege of hosting Prof. **[Weinan Zhang (张伟楠)](https://wnzhang.net/)** (SJTU). I am deeply grateful for our enlightening discussions on Reinforcement Learning, which greatly broadened my research horizons.
