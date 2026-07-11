@@ -188,18 +188,14 @@ body:hover .visually-hidden button {
 
   .fa-map-marker,
   .fa-map-marker-alt {
-    color: #e74c3c;
+    color: $info-color;
   }
 
   .fa-university {
     color: $info-color;
   }
 
-  .fa-envelope {
-    color: #d44638;
-  }
-
-  .ai-google-scholar {
+  .fa-graduation-cap {
     color: #4285f4;
   }
 
