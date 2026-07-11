@@ -67,6 +67,12 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 - *2025.09* First-class Ph.D. Scholarship, Zhengzhou University.
 - *2024.09* First-class Ph.D. Scholarship, Zhengzhou University.
 
+<span class='anchor' id='educations'></span>
+# 📖 Educations
+- *2024.09 - Present*: **Zhengzhou University (郑州大学)**, Ph.D. in Software Engineering.
+- *2021.09 - 2024.06*: **Northwest University (西北大学)**, M.S. in Computer Science and Technology.
+- *2017.09 - 2021.06*: **Henan University (河南大学)**, B.E. in Software Engineering.
+
 
 <span class='anchor' id='academic-services'></span>
 # 🏛️ Academic Services
@@ -99,11 +105,6 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
   - *2025.12* &nbsp; **[The 6th NSFC Forum for PIs of Young Scientists Fund in AI (Category B)](https://www.zzu.edu.cn/info/1217/87300.htm)**: Had the privilege of hosting Prof. **[Weinan Zhang (张伟楠)](https://wnzhang.net/)** (SJTU). I am deeply grateful for our enlightening discussions on Reinforcement Learning, which greatly broadened my research horizons.
   - *2024.11* &nbsp; **[CIE 2024 Symposium on Generative AI Technology](https://www.zzu.edu.cn/info/1217/84745.htm)**: Assisted in the conference organization and was honored to serve and learn from distinguished academicians and senior scholars in the field.
 
-<span class='anchor' id='educations'></span>
-# 📖 Educations
-- *2024.09 - Present*: **Zhengzhou University (郑州大学)**, Ph.D. in Software Engineering.
-- *2021.09 - 2024.06*: **Northwest University (西北大学)**, M.S. in Computer Science and Technology.
-- *2017.09 - 2021.06*: **Henan University (河南大学)**, B.E. in Software Engineering.
 
 # 💻 Internships
 <span class='anchor' id='internships'></span>
