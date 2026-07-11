@@ -186,9 +186,12 @@ body:hover .visually-hidden button {
     color: #000;
   }
 
-  .fa-map-marker,
-  .fa-map-marker-alt {
+  .author-profile__icon--location {
     color: $info-color;
+  }
+
+  .author-profile__icon--email {
+    color: $text-color;
   }
 
   .fa-university {
