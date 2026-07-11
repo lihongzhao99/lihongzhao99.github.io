@@ -71,28 +71,28 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 <span class='anchor' id='academic-services'></span>
 # 🏛️ Academic Services
 * **Area Chair:**
-  International Conference on Intelligent Computing (ICIC 2026)
+  - International Conference on Intelligent Computing (ICIC 2026)
 
 * **Conference Reviewer:**
-  AAAI Conference on Artificial Intelligence (AAAI)
-  ACM International Conference on Multimedia (ACM MM)
-  International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
-  IEEE International Conference on Multimedia and Expo (ICME)
-  International Joint Conference on Neural Networks (IJCNN)
+  - AAAI Conference on Artificial Intelligence (AAAI)
+  - ACM International Conference on Multimedia (ACM MM)
+  - International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
+  - IEEE International Conference on Multimedia and Expo (ICME)
+  - International Joint Conference on Neural Networks (IJCNN)
 
 * **Journal Reviewer:**
-  International Journal of Computer Vision (IJCV)
-  IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-  IEEE Transactions on Automation Science and Engineering (TASE)
-  IEEE Transactions on Cognitive and Developmental Systems (TCDS)
-  IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
-  IEEE Journal of Biomedical and Health Informatics (JBHI)
-  Engineering Applications of Artificial Intelligence (EAAI)
-  Knowledge-Based Systems (KBS)
-  Artificial Intelligence in Medicine (AIIM)
-  Biomedical Signal Processing and Control (BSPC)
-  Informatics in Medicine Unlocked (IMU)
-  Array
+  - International Journal of Computer Vision (IJCV)
+  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+  - IEEE Transactions on Automation Science and Engineering (TASE)
+  - IEEE Transactions on Cognitive and Developmental Systems (TCDS)
+  - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
+  - IEEE Journal of Biomedical and Health Informatics (JBHI)
+  - Engineering Applications of Artificial Intelligence (EAAI)
+  - Knowledge-Based Systems (KBS)
+  - Artificial Intelligence in Medicine (AIIM)
+  - Biomedical Signal Processing and Control (BSPC)
+  - Informatics in Medicine Unlocked (IMU)
+  - Array
   
 - **Conference Service:**
   - *2025.12* &nbsp; **[The 3rd National Conference on Virtual-Real Integration and Interaction](https://www.c2.org.cn/h-nd-2504.html)**: Immensely enjoyed my time with Prof. **[Chi Liu (刘驰)](https://cs.bit.edu.cn/szdw/jsml/bssds/e99eddb6f93f4c1f9388bea0b4f9979e.htm)** (BIT), and I am sincerely thankful for his generous mentorship and invaluable advice on academic writing.
