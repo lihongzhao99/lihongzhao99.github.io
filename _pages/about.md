@@ -32,6 +32,7 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.07*: &nbsp;🚀 One paper is accepted by **International Journal of Computer Vision (IJCV)** (IF 10.3).
 - *2026.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2026**.
 - *2026.04*: &nbsp;🎉 Three papers are accepted by **ICIC 2026** as <span style="color: #e74c3c;">**Oral**</span> presentations. Congratulations to Bingqian, Hualei and Xianglong!
 - *2026.04*: &nbsp;🌟 CVPR 2026 paper selected as <span style="color: #e74c3c;">**Highlight**</span>!
@@ -43,8 +44,8 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 - *2025.10*: &nbsp;✨ **Grant**: Awarded as Principal Investigator for **the Natural Science Foundation of Henan Provincial** (Youth Student Project).
 - *2025.10*: &nbsp;🧑‍🤝‍🧑 One paper is accepted by **IEEE ICPADS 2025** as an <span style="color: #e74c3c;">**Oral**</span> presentation. Congratulations to Guohao!
 - *2025.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2025** as an <span style="color: #e74c3c;">**Oral**</span> presentation.
-- *2025.05*: &nbsp;🚀 One paper is accepted by **Expert Systems with Applications** (IF 7.5).
-- *2025.03*: &nbsp;🚀 One paper is accepted by **Knowledge-Based Systems** (IF 7.2).
+- *2025.05*: &nbsp;🚀 One paper is accepted by **Expert Systems with Applications (ESWA)** (IF 7.5).
+- *2025.03*: &nbsp;🚀 One paper is accepted by **Knowledge-Based Systems (KBS)** (IF 7.2).
 - *2025.01*: &nbsp;🎉 One paper is accepted by **ICIC 2025** as an <span style="color: #e74c3c;">**Oral**</span> presentation.
 - *2024.03*: &nbsp;🎉 One paper is accepted by **ICME 2024**.
 
