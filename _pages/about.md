@@ -32,26 +32,27 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.07*: &nbsp;🚀 One paper is accepted by **International Journal of Computer Vision (IJCV)** (IF 10.3).
-- *2026.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2026**.
-- *2026.04*: &nbsp;🎉 Three papers are accepted by **ICIC 2026** as <span style="color: #e74c3c;">**Oral**</span> presentations. Congratulations to Bingqian, Hualei and Xianglong!
-- *2026.04*: &nbsp;🌟 CVPR 2026 paper selected as <span style="color: #e74c3c;">**Highlight**</span>!
-- *2026.03*: &nbsp;🎊 Invited to serve as **Area Chair** for **ICIC 2026**.
-- *2026.02*: &nbsp;🎉 One paper is accepted by **CVPR 2026**.
+- *2026.07*: &nbsp;🚀 One paper is accepted by **International Journal of Computer Vision (IJCV)** (5-year IF 20.0, **CCF-A**).
+- *2026.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2026** (**CCF-A**).
+- *2026.04*: &nbsp;🎉 Three papers are accepted by **ICIC 2026** (**CCF-C**) as <span style="color: #e74c3c;">**Oral**</span> presentations. Congratulations to Bingqian, Hualei and Xianglong!
+- *2026.04*: &nbsp;🌟 **CVPR 2026** (**CCF-A**) paper selected as <span style="color: #e74c3c;">**Highlight**</span>!
+- *2026.03*: &nbsp;🎊 Invited to serve as **Area Chair** for **ICIC 2026** (**CCF-C**).
+- *2026.02*: &nbsp;🎉 One paper is accepted by **CVPR 2026** (**CCF-A**).
 - *2025.12*: &nbsp;🤝 Honored to host Prof. **[Chi Liu (刘驰)](https://cs.bit.edu.cn/szdw/jsml/bssds/e99eddb6f93f4c1f9388bea0b4f9979e.htm)** (BIT) during his visit to Zhengzhou. Deeply grateful for his generous academic guidance.
 - *2025.12*: &nbsp;🤝 Honored to host Prof. **[Weinan Zhang (张伟楠)](https://wnzhang.net/)** (SJTU) during his visit to Zhengzhou. Deeply grateful for his inspiring academic guidance.
-- *2025.10*: &nbsp;🎉 One paper is accepted by **AAAI 2026** as an <span style="color: #e74c3c;">**Oral**</span> presentation.
+- *2025.10*: &nbsp;🎉 One paper is accepted by **AAAI 2026** (**CCF-A**) as an <span style="color: #e74c3c;">**Oral**</span> presentation.
 - *2025.10*: &nbsp;✨ **Grant**: Awarded as Principal Investigator for **the Natural Science Foundation of Henan Provincial** (Youth Student Project).
-- *2025.10*: &nbsp;🧑‍🤝‍🧑 One paper is accepted by **IEEE ICPADS 2025** as an <span style="color: #e74c3c;">**Oral**</span> presentation. Congratulations to Guohao!
-- *2025.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2025** as an <span style="color: #e74c3c;">**Oral**</span> presentation.
+- *2025.10*: &nbsp;🧑‍🤝‍🧑 One paper is accepted by **IEEE ICPADS 2025** (**CCF-C**) as an <span style="color: #e74c3c;">**Oral**</span> presentation. Congratulations to Guohao!
+- *2025.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2025** (**CCF-A**) as an <span style="color: #e74c3c;">**Oral**</span> presentation.
 - *2025.05*: &nbsp;🚀 One paper is accepted by **Expert Systems with Applications (ESWA)** (IF 7.5).
 - *2025.03*: &nbsp;🚀 One paper is accepted by **Knowledge-Based Systems (KBS)** (IF 7.2).
-- *2025.01*: &nbsp;🎉 One paper is accepted by **ICIC 2025** as an <span style="color: #e74c3c;">**Oral**</span> presentation.
-- *2024.03*: &nbsp;🎉 One paper is accepted by **ICME 2024**.
+- *2025.01*: &nbsp;🎉 One paper is accepted by **ICIC 2025** (**CCF-C**) as an <span style="color: #e74c3c;">**Oral**</span> presentation.
+- *2024.03*: &nbsp;🎉 One paper is accepted by **ICME 2024** (**CCF-B**).
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
+- **Hongzhao Li**, Siwei Liu, Guohao Shen, Shupan Li<sup>#</sup>, Mingliang Xu<sup>#</sup>. "[Multimodal Domain Generalization via Adaptive Dual-Objective Feature Learning](https://link.springer.com/article/10.1007/s11263-026-02991-0)." **International Journal of Computer Vision**, 2026, **CCF-A**, **Q1 (CAS/JCR)**, **5-year IF 20.0**.
 - **Hongzhao Li**, Hao Dong, Hualei Wan, Shupan Li<sup>#</sup>, Mingliang Xu<sup>#</sup>, Muhammad Haris Khan. "[Towards Multimodal Domain Generalization with Few Labels](https://arxiv.org/abs/2602.22917)." **CVPR 2026**, **CCF-A**, <span style="color: #e74c3c;">**Highlight**</span>.
 - **Hongzhao Li**, Guohao Shen, Shupan Li<sup>#</sup>, Mingliang Xu<sup>#</sup>, Muhammad Haris Khan. "[Balancing Multimodal Domain Generalization via Gradient Modulation and Projection](https://arxiv.org/abs/2603.14175)." **AAAI 2026**, **CCF-A**, <span style="color: #e74c3c;">**Oral**</span>.
 - **Hongzhao Li**, Hualei Wan, Liangzhi Zhang, Mingyuan Jiu, Shupan Li<sup>#</sup>, Mingliang Xu<sup>#</sup>, Muhammad Haris Khan. "[Towards Robust Multimodal Domain Generalization via Modality-Domain Joint Adversarial Training](https://dl.acm.org/doi/abs/10.1145/3746027.3754954)." **ACM MM 2025**, **CCF-A**, <span style="color: #e74c3c;">**Oral**</span>.
