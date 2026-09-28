@@ -37,7 +37,7 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 - *2026.07*: &nbsp;🚀 One paper is accepted by **International Journal of Computer Vision (IJCV)** (<span style="color: #e74c3c;">5-year IF 20.0</span>, <span style="color: #e74c3c;">**CCF-A**</span>).
 - *2026.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2026** (<span style="color: #e74c3c;">**CCF-A**</span>).
 - *2026.04*: &nbsp;🌟 One paper is accepted by **CVPR 2026** (<span style="color: #e74c3c;">**CCF-A**</span>) and selected as <span style="color: #e74c3c;">**Highlight**</span>!
-- *2026.03*: &nbsp;🎊 Invited to serve as **Area Chair** for **ICIC 2026** (**CCF-C**).
+- *2026.03*: &nbsp;🎊 Invited to serve as **Area Chair** for **ICIC 2026** (<span style="color: #e74c3c;">**CCF-C**</span>).
 - *2025.12*: &nbsp;🤝 Honored to host Prof. **[Chi Liu (刘驰)](https://cs.bit.edu.cn/szdw/jsml/bssds/e99eddb6f93f4c1f9388bea0b4f9979e.htm)** (BIT) during his visit to Zhengzhou. Deeply grateful for his generous academic guidance.
 - *2025.12*: &nbsp;🤝 Honored to host Prof. **[Weinan Zhang (张伟楠)](https://wnzhang.net/)** (SJTU) during his visit to Zhengzhou. Deeply grateful for his inspiring academic guidance.
 - *2025.10*: &nbsp;🎉 One paper is accepted by **AAAI 2026** (<span style="color: #e74c3c;">**CCF-A**</span>) as an <span style="color: #e74c3c;">**Oral**</span> presentation.
