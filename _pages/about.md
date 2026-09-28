@@ -43,24 +43,22 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 - *2025.10*: &nbsp;🎉 One paper is accepted by **AAAI 2026** (<span style="color: #e74c3c;">**CCF-A**</span>) as an <span style="color: #e74c3c;">**Oral**</span> presentation.
 - *2025.10*: &nbsp;✨ **Grant**: Awarded as Principal Investigator for **the Natural Science Foundation of Henan Provincial** (Youth Student Project).
 - *2025.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2025** (<span style="color: #e74c3c;">**CCF-A**</span>) as an <span style="color: #e74c3c;">**Oral**</span> presentation.
-- *2025.05*: &nbsp;🚀 One paper is accepted by **Expert Systems with Applications (ESWA)** (<span style="color: #e74c3c;">2025 IF 9.4</span>).
-- *2025.03*: &nbsp;🚀 One paper is accepted by **Knowledge-Based Systems (KBS)** (<span style="color: #e74c3c;">2025 IF 8.0</span>).
+- *2025.05*: &nbsp;🚀 One paper is accepted by **Expert Systems with Applications (ESWA)** (<span style="color: #e74c3c;">IF 9.4</span>).
+- *2025.03*: &nbsp;🚀 One paper is accepted by **Knowledge-Based Systems (KBS)** (<span style="color: #e74c3c;">IF 8.0</span>).
 - *2025.01*: &nbsp;🎉 One paper is accepted by **ICIC 2025** (<span style="color: #e74c3c;">**CCF-C**</span>) as an <span style="color: #e74c3c;">**Oral**</span> presentation.
 - *2024.03*: &nbsp;🎉 One paper is accepted by **ICME 2024** (<span style="color: #e74c3c;">**CCF-B**</span>).
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
-<small><sup>✉</sup> Corresponding author.</small>
-
-- **Hongzhao Li**, Siwei Liu, Guohao Shen, Shupan Li<sup>✉</sup>, Mingliang Xu<sup>✉</sup>. "[Multimodal Domain Generalization via Adaptive Dual-Objective Feature Learning](https://link.springer.com/article/10.1007/s11263-026-02991-0)." **International Journal of Computer Vision**, 2026, <span style="color: #e74c3c;">**CCF-A**</span>, **Q1 (CAS/JCR)**, <span style="color: #e74c3c;">**5-year IF 20.0**</span>.
-- **Hongzhao Li**, Hao Dong, Hualei Wan, Shupan Li<sup>✉</sup>, Mingliang Xu<sup>✉</sup>, Muhammad Haris Khan. "[Towards Multimodal Domain Generalization with Few Labels](https://arxiv.org/abs/2602.22917)." **CVPR 2026**, <span style="color: #e74c3c;">**CCF-A**</span>, <span style="color: #e74c3c;">**Highlight**</span>.
-- **Hongzhao Li**, Guohao Shen, Shupan Li<sup>✉</sup>, Mingliang Xu<sup>✉</sup>, Muhammad Haris Khan. "[Balancing Multimodal Domain Generalization via Gradient Modulation and Projection](https://arxiv.org/abs/2603.14175)." **AAAI 2026**, <span style="color: #e74c3c;">**CCF-A**</span>, <span style="color: #e74c3c;">**Oral**</span>.
-- **Hongzhao Li**, Hualei Wan, Liangzhi Zhang, Mingyuan Jiu, Shupan Li<sup>✉</sup>, Mingliang Xu<sup>✉</sup>, Muhammad Haris Khan. "[Towards Robust Multimodal Domain Generalization via Modality-Domain Joint Adversarial Training](https://dl.acm.org/doi/abs/10.1145/3746027.3754954)." **ACM MM 2025**, <span style="color: #e74c3c;">**CCF-A**</span>, <span style="color: #e74c3c;">**Oral**</span>.
-- **Hongzhao Li**, Siwei Liu, Hui Wang, Xiaoheng Jiang, Mingyuan Jiu, Li Chen, Yang Lu, Shupan Li<sup>✉</sup>, Mingliang Xu<sup>✉</sup>. "[RRGMambaFormer: A hybrid Transformer-Mamba architecture for radiology report generation](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010413)." **Expert Systems with Applications**, 2025, **Q1 (CAS/JCR)**, <span style="color: #e74c3c;">**IF 9.4**</span>.
-- **Hongzhao Li**, Hongyu Wang, Xia Sun, Hua He<sup>✉</sup>, Jun Feng<sup>✉</sup>. "[Context-enhanced framework for medical image report generation using multimodal contexts](https://www.sciencedirect.com/science/article/abs/pii/S0950705124015478)." **Knowledge-Based Systems**, 2025, **Q1 (CAS/JCR)**, <span style="color: #e74c3c;">**IF 8.0**</span>.
-- **Hongzhao Li**, Hongyu Wang, Xia Sun<sup>✉</sup>, Hua He, Jun Feng<sup>✉</sup>. "[Prompt-guided generation of structured chest X-ray report using a pre-trained LLM](https://ieeexplore.ieee.org/abstract/document/10687707)." **ICME 2024**, <span style="color: #e74c3c;">**CCF-B**</span>.
-- **Hongzhao Li**, Liangzhi Zhang, Xiangrong Zhong, Jingpu Zhang, Shuo Feng, Shupan Li<sup>✉</sup>. "[Multi-Modality and Multi-Grained Transformer for Accurate Radiology Report Generation](https://link.springer.com/chapter/10.1007/978-981-95-0033-8_8)." **ICIC 2025**, <span style="color: #e74c3c;">**CCF-C**</span>, <span style="color: #e74c3c;">**Oral**</span>.
+- **Hongzhao Li**, Siwei Liu, Guohao Shen, Shupan Li<sup style="font-size: 1em;">✉</sup>, Mingliang Xu<sup style="font-size: 1em;">✉</sup>. "[Multimodal Domain Generalization via Adaptive Dual-Objective Feature Learning](https://link.springer.com/article/10.1007/s11263-026-02991-0)." **International Journal of Computer Vision**, 2026, <span style="color: #e74c3c;">**CCF-A**</span>, **Q1 (CAS/JCR)**, <span style="color: #e74c3c;">**5-year IF 20.0**</span>.
+- **Hongzhao Li**, Hao Dong, Hualei Wan, Shupan Li<sup style="font-size: 1em;">✉</sup>, Mingliang Xu<sup style="font-size: 1em;">✉</sup>, Muhammad Haris Khan. "[Towards Multimodal Domain Generalization with Few Labels](https://arxiv.org/abs/2602.22917)." **CVPR 2026**, <span style="color: #e74c3c;">**CCF-A**</span>, <span style="color: #e74c3c;">**Highlight**</span>.
+- **Hongzhao Li**, Guohao Shen, Shupan Li<sup style="font-size: 1em;">✉</sup>, Mingliang Xu<sup style="font-size: 1em;">✉</sup>, Muhammad Haris Khan. "[Balancing Multimodal Domain Generalization via Gradient Modulation and Projection](https://arxiv.org/abs/2603.14175)." **AAAI 2026**, <span style="color: #e74c3c;">**CCF-A**</span>, <span style="color: #e74c3c;">**Oral**</span>.
+- **Hongzhao Li**, Hualei Wan, Liangzhi Zhang, Mingyuan Jiu, Shupan Li<sup style="font-size: 1em;">✉</sup>, Mingliang Xu<sup style="font-size: 1em;">✉</sup>, Muhammad Haris Khan. "[Towards Robust Multimodal Domain Generalization via Modality-Domain Joint Adversarial Training](https://dl.acm.org/doi/abs/10.1145/3746027.3754954)." **ACM MM 2025**, <span style="color: #e74c3c;">**CCF-A**</span>, <span style="color: #e74c3c;">**Oral**</span>.
+- **Hongzhao Li**, Siwei Liu, Hui Wang, Xiaoheng Jiang, Mingyuan Jiu, Li Chen, Yang Lu, Shupan Li<sup style="font-size: 1em;">✉</sup>, Mingliang Xu<sup style="font-size: 1em;">✉</sup>. "[RRGMambaFormer: A hybrid Transformer-Mamba architecture for radiology report generation](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010413)." **Expert Systems with Applications**, 2025, **Q1 (CAS/JCR)**, <span style="color: #e74c3c;">**IF 9.4**</span>.
+- **Hongzhao Li**, Hongyu Wang, Xia Sun, Hua He<sup style="font-size: 1em;">✉</sup>, Jun Feng<sup style="font-size: 1em;">✉</sup>. "[Context-enhanced framework for medical image report generation using multimodal contexts](https://www.sciencedirect.com/science/article/abs/pii/S0950705124015478)." **Knowledge-Based Systems**, 2025, **Q1 (CAS/JCR)**, <span style="color: #e74c3c;">**IF 8.0**</span>.
+- **Hongzhao Li**, Hongyu Wang, Xia Sun<sup style="font-size: 1em;">✉</sup>, Hua He, Jun Feng<sup style="font-size: 1em;">✉</sup>. "[Prompt-guided generation of structured chest X-ray report using a pre-trained LLM](https://ieeexplore.ieee.org/abstract/document/10687707)." **ICME 2024**, <span style="color: #e74c3c;">**CCF-B**</span>.
+- **Hongzhao Li**, Liangzhi Zhang, Xiangrong Zhong, Jingpu Zhang, Shuo Feng, Shupan Li<sup style="font-size: 1em;">✉</sup>. "[Multi-Modality and Multi-Grained Transformer for Accurate Radiology Report Generation](https://link.springer.com/chapter/10.1007/978-981-95-0033-8_8)." **ICIC 2025**, <span style="color: #e74c3c;">**CCF-C**</span>, <span style="color: #e74c3c;">**Oral**</span>.
 
 
 <span class='anchor' id='honors-and-awards'></span>
@@ -92,6 +90,7 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 
 * **Journal Reviewer:**
   - International Journal of Computer Vision (IJCV)
+  - IEEE Transactions on Multimedia (TMM)
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - IEEE Transactions on Automation Science and Engineering (TASE)
   - IEEE Transactions on Cognitive and Developmental Systems (TCDS)
