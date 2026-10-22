@@ -1,0 +1,17 @@
+[data-home-lang][hidden], #home-language-toggle[hidden] { display: none !important; }
+#home-language-toggle {
+  float: right;
+  position: relative;
+  z-index: 1;
+  margin: 0.6em 0 0.5em 1em;
+  padding: 0.25em 0.65em;
+  border: 1px solid currentColor;
+  border-radius: 4px;
+  background: transparent;
+  color: #2475a7;
+  font: inherit;
+  font-size: 0.85em;
+  cursor: pointer;
+}
+#home-language-toggle:hover { background: #edf6fc; }
+#home-language-toggle:focus-visible { outline: 2px solid #2475a7; outline-offset: 3px; }
