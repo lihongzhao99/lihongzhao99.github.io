@@ -39,9 +39,9 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 {% capture home_copy %}
 # 🙋‍♂️ 关于我
 
-我目前是**郑州大学**计算机与人工智能学院的博士研究生，导师为 **[徐明亮](https://www7.zzu.edu.cn/csai/info/1234/2497.htm)** 教授和 **[李书攀](https://www.scopus.com/authid/detail.uri?authorId=56688691400)** 教授。
+我目前是 **郑州大学** 计算机与人工智能学院的博士研究生，导师为 **[徐明亮](https://www7.zzu.edu.cn/csai/info/1234/2497.htm)** 教授和 **[李书攀](https://www.scopus.com/authid/detail.uri?authorId=56688691400)** 教授。
 
-同时，我有幸得到**Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**的 **[Muhammad Haris Khan](https://m-haris-khan.com/)** 教授，以及 **ELLIS Institute Finland**与**Tampere University**的 **[董浩](https://donghao51.github.io/)** 教授的远程学术指导。
+同时，我有幸得到 **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)** 的 **[Muhammad Haris Khan](https://m-haris-khan.com/)** 教授，以及 **ELLIS Institute Finland** 与 **Tampere University** 的 **[董浩](https://donghao51.github.io/)** 教授的远程学术指导。
 
 我的研究方向主要包括**域泛化**与**多模态学习**。
 
@@ -56,7 +56,7 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 
 {% capture home_copy %}
 # 🔥 News
-- *2026*: &nbsp;🎉 Selected for the **2026 CAST Young Science and Technology Talent Cultivation Program (Doctoral Student Special Plan)**, China Association for Science and Technology (CAST).
+- *2026.10*: &nbsp;🎉 Selected for the **2026 CAST Young Science and Technology Talent Cultivation Program (Doctoral Student Special Plan)**, China Association for Science and Technology (CAST).
 - *2026.09*: &nbsp;🎉 One paper is accepted by **NeurIPS 2026** (<span style="color: #e74c3c;">**CCF-A**</span>).
 - *2026.09*: &nbsp;🏆 I am honored to receive the **National Scholarship 2026!**
 - *2026.07*: &nbsp;🚀 One paper is accepted by **International Journal of Computer Vision (IJCV)** (<span style="color: #e74c3c;">5-year IF 20.0</span>, <span style="color: #e74c3c;">**CCF-A**</span>).
@@ -76,7 +76,7 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 
 {% capture home_copy %}
 # 🔥 最新动态
-- *2026*: &nbsp;🎉 入选 **2026 年中国科协青年科技人才培育工程博士生专项计划**。
+- *2026.10*: &nbsp;🎉 入选 **2026 年中国科协青年科技人才培育工程博士生专项计划**。
 - *2026.09*: &nbsp;🎉 一篇论文被录用于 **NeurIPS 2026** (<span style="color: #e74c3c;">**CCF-A**</span>).
 - *2026.09*: &nbsp;🏆 荣获 **2026 年国家奖学金！**
 - *2026.07*: &nbsp;🚀 一篇论文被录用于 **International Journal of Computer Vision (IJCV)** (<span style="color: #e74c3c;">五年影响因子 20.0</span>, <span style="color: #e74c3c;">**CCF-A**</span>).
@@ -96,7 +96,7 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 <span class='anchor' id='publications'></span>
 
 {% capture home_copy %}
-# 📝 Publications
+# 📝 Selected Publications
 
 - **Hongzhao Li**, Siwei Liu, Guohao Shen, Shupan Li<sup style="font-size: 1em;">✉</sup>, Mingliang Xu<sup style="font-size: 1em;">✉</sup>. "[Multimodal Domain Generalization via Adaptive Dual-Objective Feature Learning](https://link.springer.com/article/10.1007/s11263-026-02991-0)." **International Journal of Computer Vision**, 2026, <span style="color: #e74c3c;">**CCF-A**</span>, **Q1 (CAS/JCR)**, <span style="color: #e74c3c;">**5-year IF 20.0**</span>.
 - **Hongzhao Li**, Hao Dong, Hualei Wan, Shupan Li<sup style="font-size: 1em;">✉</sup>, Mingliang Xu<sup style="font-size: 1em;">✉</sup>, Muhammad Haris Khan. "[Towards Multimodal Domain Generalization with Few Labels](https://arxiv.org/abs/2602.22917)." **CVPR 2026**, <span style="color: #e74c3c;">**CCF-A**</span>, <span style="color: #e74c3c;">**Highlight**</span>.
@@ -109,9 +109,9 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 <div data-home-lang="en" lang="en">{{ home_copy | markdownify }}</div>
 
 {% capture home_copy %}
-# 📝 论文发表
+# 📝 代表性论文
 
-- **Hongzhao Li**, Siwei Liu, Guohao Shen, Shupan Li<sup style="font-size: 1em;">✉</sup>, Mingliang Xu<sup style="font-size: 1em;">✉</sup>. "[Multimodal Domain Generalization via Adaptive Dual-Objective Feature Learning](https://link.springer.com/article/10.1007/s11263-026-02991-0)." **International Journal of Computer Vision**, 2026, <span style="color: #e74c3c;">**CCF-A**</span>, **中科院一区 / JCR Q1**, <span style="color: #e74c3c;">**五年影响因子 20.0**</span>.
+- **Hongzhao Li**, Siwei Liu, Guohao Shen, Shupan Li<sup style="font-size: 1em;">✉</sup>, Mingliang Xu<sup style="font-size: 1em;">✉</sup>. "[Multimodal Domain Generalization via Adaptive Dual-Objective Feature Learning](https://link.springer.com/article/10.1007/s11263-026-02991-0)." **International Journal of Computer Vision**, 2026, <span style="color: #e74c3c;">**CCF-A**</span>, <span style="color: #e74c3c;">**五年影响因子 20.0**</span>.
 - **Hongzhao Li**, Hao Dong, Hualei Wan, Shupan Li<sup style="font-size: 1em;">✉</sup>, Mingliang Xu<sup style="font-size: 1em;">✉</sup>, Muhammad Haris Khan. "[Towards Multimodal Domain Generalization with Few Labels](https://arxiv.org/abs/2602.22917)." **CVPR 2026**, <span style="color: #e74c3c;">**CCF-A**</span>, <span style="color: #e74c3c;">**亮点论文（Highlight）**</span>.
 - **Hongzhao Li**, Guohao Shen, Shupan Li<sup style="font-size: 1em;">✉</sup>, Mingliang Xu<sup style="font-size: 1em;">✉</sup>, Muhammad Haris Khan. "[Balancing Multimodal Domain Generalization via Gradient Modulation and Projection](https://arxiv.org/abs/2603.14175)." **AAAI 2026**, <span style="color: #e74c3c;">**CCF-A**</span>, <span style="color: #e74c3c;">**口头报告（Oral）**</span>.
 - **Hongzhao Li**, Hualei Wan, Liangzhi Zhang, Mingyuan Jiu, Shupan Li<sup style="font-size: 1em;">✉</sup>, Mingliang Xu<sup style="font-size: 1em;">✉</sup>, Muhammad Haris Khan. "[Towards Robust Multimodal Domain Generalization via Modality-Domain Joint Adversarial Training](https://dl.acm.org/doi/abs/10.1145/3746027.3754954)." **ACM MM 2025**, <span style="color: #e74c3c;">**CCF-A**</span>, <span style="color: #e74c3c;">**口头报告（Oral）**</span>.
@@ -124,7 +124,7 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 
 {% capture home_copy %}
 # 🎖 Honors and Awards
-- *2026* Selected for the **CAST Young Science and Technology Talent Cultivation Program (Doctoral Student Special Plan)**, China Association for Science and Technology (CAST).
+- *2026.10* Selected for the **CAST Young Science and Technology Talent Cultivation Program (Doctoral Student Special Plan)**, China Association for Science and Technology (CAST).
 - *2026.09* **National Scholarship**, Ministry of Education of China.
 - *2026.09* First-class Ph.D. Scholarship, Zhengzhou University.
 - *2025.10* Principal Investigator, **the Natural Science Foundation of Henan Provincial** (Youth Student Project).
@@ -135,7 +135,7 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 
 {% capture home_copy %}
 # 🎖 荣誉与奖励
-- *2026* 入选**中国科协青年科技人才培育工程博士生专项计划**。
+- *2026.10* 入选**中国科协青年科技人才培育工程博士生专项计划**。
 - *2026.09* **国家奖学金**，中华人民共和国教育部。
 - *2026.09* 郑州大学博士研究生一等学业奖学金。
 - *2025.10* 主持**河南省自然科学基金青年学生项目**。

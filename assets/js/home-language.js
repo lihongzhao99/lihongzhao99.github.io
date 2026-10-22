@@ -4,7 +4,7 @@
   if (!button) return;
   var labels = {
     'Homepage': '主页', 'About Me': '关于我', 'News': '最新动态',
-    'Publications': '论文发表', 'Honors and Awards': '荣誉与奖励',
+    'Selected Publications': '代表性论文', 'Honors and Awards': '荣誉与奖励',
     'Educations': '教育经历', 'Academic Services': '学术服务',
     'Hongzhao Li': '李泓钊',
     'PhD student at Zhengzhou University.': '郑州大学博士研究生。',
