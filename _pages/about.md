@@ -45,7 +45,7 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 
 我的研究方向主要包括**域泛化**与**多模态学习**。
 
-*欢迎交流学术问题、探讨科研合作，随时通过邮件与我联系。*
+*欢迎通过邮件与我交流学术问题、探讨科研合作。*
 
 *📧 **邮箱：** lihongzhao@gs.zzu.edu.cn*
 
@@ -56,7 +56,7 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 
 {% capture home_copy %}
 # 🔥 News
-- *2026.10*: &nbsp;🎉 Selected for the **2026 CAST Young Science and Technology Talent Cultivation Program (Doctoral Student Special Plan)**, China Association for Science and Technology (CAST).
+- *2026.10*: &nbsp;✨ Selected for the **2026 CAST Young Science and Technology Talent Cultivation Program (Doctoral Student Special Plan)**, China Association for Science and Technology (CAST).
 - *2026.09*: &nbsp;🎉 One paper is accepted by **NeurIPS 2026** (<span style="color: #e74c3c;">**CCF-A**</span>).
 - *2026.09*: &nbsp;🏆 I am honored to receive the **National Scholarship 2026!**
 - *2026.07*: &nbsp;🚀 One paper is accepted by **International Journal of Computer Vision (IJCV)** (<span style="color: #e74c3c;">5-year IF 20.0</span>, <span style="color: #e74c3c;">**CCF-A**</span>).
@@ -76,21 +76,21 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 
 {% capture home_copy %}
 # 🔥 最新动态
-- *2026.10*: &nbsp;🎉 入选 **2026 年中国科协青年科技人才培育工程博士生专项计划**。
-- *2026.09*: &nbsp;🎉 一篇论文被录用于 **NeurIPS 2026** (<span style="color: #e74c3c;">**CCF-A**</span>).
+- *2026.10*: &nbsp;✨ 入选 **2026 年中国科协青年科技人才培育工程博士生专项计划**。
+- *2026.09*: &nbsp;🎉 一篇论文被 **NeurIPS 2026** 接收 (<span style="color: #e74c3c;">**CCF-A**</span>).
 - *2026.09*: &nbsp;🏆 荣获 **2026 年国家奖学金！**
-- *2026.07*: &nbsp;🚀 一篇论文被录用于 **International Journal of Computer Vision (IJCV)** (<span style="color: #e74c3c;">五年影响因子 20.0</span>, <span style="color: #e74c3c;">**CCF-A**</span>).
-- *2026.07*: &nbsp;🎉 一篇论文被录用于 **ACM MM 2026** (<span style="color: #e74c3c;">**CCF-A**</span>).
-- *2026.04*: &nbsp;🌟 一篇论文被录用于 **CVPR 2026** (<span style="color: #e74c3c;">**CCF-A**</span>) ，并入选 <span style="color: #e74c3c;">**亮点论文（Highlight）**</span>!
+- *2026.07*: &nbsp;🚀 一篇论文被 **International Journal of Computer Vision (IJCV)** 接收 (<span style="color: #e74c3c;">五年影响因子 20.0</span>, <span style="color: #e74c3c;">**CCF-A**</span>).
+- *2026.07*: &nbsp;🎉 一篇论文被 **ACM MM 2026** 接收 (<span style="color: #e74c3c;">**CCF-A**</span>).
+- *2026.04*: &nbsp;🌟 一篇论文被 **CVPR 2026** 接收 (<span style="color: #e74c3c;">**CCF-A**</span>)，并入选 <span style="color: #e74c3c;">**亮点论文（Highlight）**</span>!
 - *2026.03*: &nbsp;🎊 受邀担任 **ICIC 2026** **领域主席** (<span style="color: #e74c3c;">**CCF-C**</span>).
-- *2025.12*: &nbsp;🤝 有幸接待北京理工大学**[刘驰](https://cs.bit.edu.cn/szdw/jsml/bssds/e99eddb6f93f4c1f9388bea0b4f9979e.htm)**教授来郑州访问，衷心感谢他的学术指导。
-- *2025.12*: &nbsp;🤝 有幸接待上海交通大学**[张伟楠](https://wnzhang.net/)**教授来郑州访问，衷心感谢他的启发与学术指导。
-- *2025.10*: &nbsp;🎉 一篇论文被录用于 **AAAI 2026** (<span style="color: #e74c3c;">**CCF-A**</span>) ，报告形式为 <span style="color: #e74c3c;">**口头报告（Oral）**</span>。
+- *2025.12*: &nbsp;🤝 有幸接待北京理工大学**[刘驰](https://cs.bit.edu.cn/szdw/jsml/bssds/e99eddb6f93f4c1f9388bea0b4f9979e.htm)**教授来郑州访问，衷心感谢他的悉心指导。
+- *2025.12*: &nbsp;🤝 有幸接待上海交通大学**[张伟楠](https://wnzhang.net/)**教授来郑州访问，衷心感谢他的悉心指导，交流中深受启发。
+- *2025.10*: &nbsp;🎉 一篇论文被 **AAAI 2026** 接收 (<span style="color: #e74c3c;">**CCF-A**</span>)，报告形式为 <span style="color: #e74c3c;">**口头报告（Oral）**</span>。
 - *2025.10*: &nbsp;✨ **科研项目**：获批主持**河南省自然科学基金青年学生项目**。
-- *2025.07*: &nbsp;🎉 一篇论文被录用于 **ACM MM 2025** (<span style="color: #e74c3c;">**CCF-A**</span>) ，报告形式为 <span style="color: #e74c3c;">**口头报告（Oral）**</span>。
-- *2025.05*: &nbsp;🚀 一篇论文被录用于 **Expert Systems with Applications (ESWA)** (<span style="color: #e74c3c;">影响因子 9.4</span>).
-- *2025.03*: &nbsp;🚀 一篇论文被录用于 **Knowledge-Based Systems (KBS)** (<span style="color: #e74c3c;">影响因子 8.0</span>).
-- *2024.03*: &nbsp;🎉 一篇论文被录用于 **ICME 2024** (<span style="color: #e74c3c;">**CCF-B**</span>).
+- *2025.07*: &nbsp;🎉 一篇论文被 **ACM MM 2025** 接收 (<span style="color: #e74c3c;">**CCF-A**</span>)，报告形式为 <span style="color: #e74c3c;">**口头报告（Oral）**</span>。
+- *2025.05*: &nbsp;🚀 一篇论文被 **Expert Systems with Applications (ESWA)** 接收 (<span style="color: #e74c3c;">影响因子 9.4</span>).
+- *2025.03*: &nbsp;🚀 一篇论文被 **Knowledge-Based Systems (KBS)** 接收 (<span style="color: #e74c3c;">影响因子 8.0</span>).
+- *2024.03*: &nbsp;🎉 一篇论文被 **ICME 2024** 接收 (<span style="color: #e74c3c;">**CCF-B**</span>).
 {% endcapture %}
 <div data-home-lang="zh" lang="zh-CN" hidden>{{ home_copy | markdownify }}</div>
 <span class='anchor' id='publications'></span>
@@ -224,9 +224,9 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
   - Array
 
 - **会议服务：**
-  - *2025.12* &nbsp; **[第三届全国虚实融合与交互大会](https://www.c2.org.cn/h-nd-2504.html)**: 有幸与北京理工大学**[刘驰](https://cs.bit.edu.cn/szdw/jsml/bssds/e99eddb6f93f4c1f9388bea0b4f9979e.htm)**教授交流，衷心感谢他在学术写作方面的悉心指导与宝贵建议。
-  - *2025.12* &nbsp; **[第六届人工智能领域国家自然科学基金优秀青年科学基金项目（B 类）负责人论坛](https://www.zzu.edu.cn/info/1217/87300.htm)**: 有幸接待上海交通大学**[张伟楠](https://wnzhang.net/)**教授。感谢他围绕强化学习开展的深入交流，极大地拓展了我的研究视野。
-  - *2024.11* &nbsp; **[中国电子学会 2024 年生成式人工智能技术专题研讨会](https://www.zzu.edu.cn/info/1217/84745.htm)**: 协助会议组织工作，有幸为与会院士及资深学者提供服务，并向他们学习。
+  - *2025.12* &nbsp; **[2025第三届全国虚实融合交互大会](https://www.c2.org.cn/h-nd-2504.html)**: 有幸与北京理工大学**[刘驰](https://cs.bit.edu.cn/szdw/jsml/bssds/e99eddb6f93f4c1f9388bea0b4f9979e.htm)**教授交流，感谢他在学术写作方面给予的悉心指导和宝贵建议。
+  - *2025.12* &nbsp; **[国家自然科学基金委员会信息科学部第六届人工智能领域青年科学基金项目（B类）负责人论坛](https://www.zzu.edu.cn/info/1217/87300.htm)**: 有幸接待上海交通大学**[张伟楠](https://wnzhang.net/)**教授。与他就强化学习进行深入交流，受益良多，也拓宽了我的研究视野。
+  - *2024.11* &nbsp; **[2024生成式人工智能技术研讨会](https://www.zzu.edu.cn/info/1217/84745.htm)**: 协助会议组织与接待工作，有幸向到场的院士和资深学者学习。
 {% endcapture %}
 <div data-home-lang="zh" lang="zh-CN" hidden>{{ home_copy | markdownify }}</div>
 <script src="{{ "/assets/js/home-language.js" | relative_url }}" defer></script>
