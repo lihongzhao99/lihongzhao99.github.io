@@ -6,7 +6,7 @@
     'Homepage': '主页', 'About Me': '关于我', 'News': '最新动态',
     'Publications': '论文发表', 'Honors and Awards': '荣誉与奖励',
     'Educations': '教育经历', 'Academic Services': '学术服务',
-    'Internships': '实习机会', 'Hongzhao Li': '李泓钊',
+    'Hongzhao Li': '李泓钊',
     'PhD student at Zhengzhou University.': '郑州大学博士研究生。',
     'Zhengzhou, China': '中国，郑州', 'Zhengzhou University': '郑州大学',
     'Email': '邮箱', 'Google Scholar': '谷歌学术'
@@ -52,6 +52,6 @@
     try { localStorage.setItem('homepage-language', language); } catch (error) { /* Storage may be disabled. */ }
   });
   try { if (localStorage.getItem('homepage-language') === 'zh') language = 'zh'; } catch (error) { /* Use English by default. */ }
-  setLanguage(language);
   button.hidden = false;
+  setLanguage(language);
 }());

@@ -11,6 +11,9 @@
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
+      {% if page.permalink == "/" %}
+      <button id="home-language-toggle" type="button" aria-label="切换为中文" hidden>中文</button>
+      {% endif %}
     </div>
   </div>
 </div>

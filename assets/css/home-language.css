@@ -1,9 +1,18 @@
 [data-home-lang][hidden], #home-language-toggle[hidden] { display: none !important; }
+/* Keep the language control visible beside the collapsible navigation. */
+.masthead__menu {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+.masthead__menu > .greedy-nav {
+  flex: 1 1 auto;
+  min-width: 0;
+}
 #home-language-toggle {
-  float: right;
-  position: relative;
-  z-index: 1;
-  margin: 0.6em 0 0.5em 1em;
+  flex: 0 0 auto;
+  white-space: nowrap;
+  margin: 0;
   padding: 0.25em 0.65em;
   border: 1px solid currentColor;
   border-radius: 4px;

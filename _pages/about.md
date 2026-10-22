@@ -18,7 +18,6 @@ redirect_from:
 <link rel="stylesheet" href="{{ "/assets/css/home-language.css" | relative_url }}">
 
 <span class='anchor' id='about-me'></span>
-<button id="home-language-toggle" type="button" aria-label="切换为中文" hidden>中文</button>
 
 {% capture home_copy %}
 # 🙋‍♂️ About Me
@@ -40,9 +39,9 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 {% capture home_copy %}
 # 🙋‍♂️ 关于我
 
-我目前是**郑州大学**计算机与人工智能学院的博士研究生，导师为**[徐明亮](https://www7.zzu.edu.cn/csai/info/1234/2497.htm)**教授和**[李书攀](https://www.scopus.com/authid/detail.uri?authorId=56688691400)**教授。
+我目前是**郑州大学**计算机与人工智能学院的博士研究生，导师为 **[徐明亮](https://www7.zzu.edu.cn/csai/info/1234/2497.htm)** 教授和 **[李书攀](https://www.scopus.com/authid/detail.uri?authorId=56688691400)** 教授。
 
-同时，我有幸得到**Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**的 **[Muhammad Haris Khan](https://m-haris-khan.com/)** 教授，以及 **ELLIS Institute Finland**与**Tampere University**的**[董浩](https://donghao51.github.io/)**教授的远程学术指导。
+同时，我有幸得到**Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**的 **[Muhammad Haris Khan](https://m-haris-khan.com/)** 教授，以及 **ELLIS Institute Finland**与**Tampere University**的 **[董浩](https://donghao51.github.io/)** 教授的远程学术指导。
 
 我的研究方向主要包括**域泛化**与**多模态学习**。
 
@@ -57,6 +56,7 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 
 {% capture home_copy %}
 # 🔥 News
+- *2026*: &nbsp;🎉 Selected for the **2026 CAST Young Science and Technology Talent Cultivation Program (Doctoral Student Special Plan)**, China Association for Science and Technology (CAST).
 - *2026.09*: &nbsp;🎉 One paper is accepted by **NeurIPS 2026** (<span style="color: #e74c3c;">**CCF-A**</span>).
 - *2026.09*: &nbsp;🏆 I am honored to receive the **National Scholarship 2026!**
 - *2026.07*: &nbsp;🚀 One paper is accepted by **International Journal of Computer Vision (IJCV)** (<span style="color: #e74c3c;">5-year IF 20.0</span>, <span style="color: #e74c3c;">**CCF-A**</span>).
@@ -70,13 +70,13 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 - *2025.07*: &nbsp;🎉 One paper is accepted by **ACM MM 2025** (<span style="color: #e74c3c;">**CCF-A**</span>) as an <span style="color: #e74c3c;">**Oral**</span> presentation.
 - *2025.05*: &nbsp;🚀 One paper is accepted by **Expert Systems with Applications (ESWA)** (<span style="color: #e74c3c;">IF 9.4</span>).
 - *2025.03*: &nbsp;🚀 One paper is accepted by **Knowledge-Based Systems (KBS)** (<span style="color: #e74c3c;">IF 8.0</span>).
-- *2025.01*: &nbsp;🎉 One paper is accepted by **ICIC 2025** (<span style="color: #e74c3c;">**CCF-C**</span>) as an <span style="color: #e74c3c;">**Oral**</span> presentation.
 - *2024.03*: &nbsp;🎉 One paper is accepted by **ICME 2024** (<span style="color: #e74c3c;">**CCF-B**</span>).
 {% endcapture %}
 <div data-home-lang="en" lang="en">{{ home_copy | markdownify }}</div>
 
 {% capture home_copy %}
 # 🔥 最新动态
+- *2026*: &nbsp;🎉 入选 **2026 年中国科协青年科技人才培育工程博士生专项计划**。
 - *2026.09*: &nbsp;🎉 一篇论文被录用于 **NeurIPS 2026** (<span style="color: #e74c3c;">**CCF-A**</span>).
 - *2026.09*: &nbsp;🏆 荣获 **2026 年国家奖学金！**
 - *2026.07*: &nbsp;🚀 一篇论文被录用于 **International Journal of Computer Vision (IJCV)** (<span style="color: #e74c3c;">五年影响因子 20.0</span>, <span style="color: #e74c3c;">**CCF-A**</span>).
@@ -90,7 +90,6 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 - *2025.07*: &nbsp;🎉 一篇论文被录用于 **ACM MM 2025** (<span style="color: #e74c3c;">**CCF-A**</span>) ，报告形式为 <span style="color: #e74c3c;">**口头报告（Oral）**</span>。
 - *2025.05*: &nbsp;🚀 一篇论文被录用于 **Expert Systems with Applications (ESWA)** (<span style="color: #e74c3c;">影响因子 9.4</span>).
 - *2025.03*: &nbsp;🚀 一篇论文被录用于 **Knowledge-Based Systems (KBS)** (<span style="color: #e74c3c;">影响因子 8.0</span>).
-- *2025.01*: &nbsp;🎉 一篇论文被录用于 **ICIC 2025** (<span style="color: #e74c3c;">**CCF-C**</span>) ，报告形式为 <span style="color: #e74c3c;">**口头报告（Oral）**</span>。
 - *2024.03*: &nbsp;🎉 一篇论文被录用于 **ICME 2024** (<span style="color: #e74c3c;">**CCF-B**</span>).
 {% endcapture %}
 <div data-home-lang="zh" lang="zh-CN" hidden>{{ home_copy | markdownify }}</div>
@@ -106,7 +105,6 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 - **Hongzhao Li**, Siwei Liu, Hui Wang, Xiaoheng Jiang, Mingyuan Jiu, Li Chen, Yang Lu, Shupan Li<sup style="font-size: 1em;">✉</sup>, Mingliang Xu<sup style="font-size: 1em;">✉</sup>. "[RRGMambaFormer: A hybrid Transformer-Mamba architecture for radiology report generation](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010413)." **Expert Systems with Applications**, 2025, **Q1 (CAS/JCR)**, <span style="color: #e74c3c;">**IF 9.4**</span>.
 - **Hongzhao Li**, Hongyu Wang, Xia Sun, Hua He<sup style="font-size: 1em;">✉</sup>, Jun Feng<sup style="font-size: 1em;">✉</sup>. "[Context-enhanced framework for medical image report generation using multimodal contexts](https://www.sciencedirect.com/science/article/abs/pii/S0950705124015478)." **Knowledge-Based Systems**, 2025, **Q1 (CAS/JCR)**, <span style="color: #e74c3c;">**IF 8.0**</span>.
 - **Hongzhao Li**, Hongyu Wang, Xia Sun<sup style="font-size: 1em;">✉</sup>, Hua He, Jun Feng<sup style="font-size: 1em;">✉</sup>. "[Prompt-guided generation of structured chest X-ray report using a pre-trained LLM](https://ieeexplore.ieee.org/abstract/document/10687707)." **ICME 2024**, <span style="color: #e74c3c;">**CCF-B**</span>.
-- **Hongzhao Li**, Liangzhi Zhang, Xiangrong Zhong, Jingpu Zhang, Shuo Feng, Shupan Li<sup style="font-size: 1em;">✉</sup>. "[Multi-Modality and Multi-Grained Transformer for Accurate Radiology Report Generation](https://link.springer.com/chapter/10.1007/978-981-95-0033-8_8)." **ICIC 2025**, <span style="color: #e74c3c;">**CCF-C**</span>, <span style="color: #e74c3c;">**Oral**</span>.
 {% endcapture %}
 <div data-home-lang="en" lang="en">{{ home_copy | markdownify }}</div>
 
@@ -120,13 +118,13 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 - **Hongzhao Li**, Siwei Liu, Hui Wang, Xiaoheng Jiang, Mingyuan Jiu, Li Chen, Yang Lu, Shupan Li<sup style="font-size: 1em;">✉</sup>, Mingliang Xu<sup style="font-size: 1em;">✉</sup>. "[RRGMambaFormer: A hybrid Transformer-Mamba architecture for radiology report generation](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010413)." **Expert Systems with Applications**, 2025, **中科院一区 / JCR Q1**, <span style="color: #e74c3c;">**影响因子 9.4**</span>.
 - **Hongzhao Li**, Hongyu Wang, Xia Sun, Hua He<sup style="font-size: 1em;">✉</sup>, Jun Feng<sup style="font-size: 1em;">✉</sup>. "[Context-enhanced framework for medical image report generation using multimodal contexts](https://www.sciencedirect.com/science/article/abs/pii/S0950705124015478)." **Knowledge-Based Systems**, 2025, **中科院一区 / JCR Q1**, <span style="color: #e74c3c;">**影响因子 8.0**</span>.
 - **Hongzhao Li**, Hongyu Wang, Xia Sun<sup style="font-size: 1em;">✉</sup>, Hua He, Jun Feng<sup style="font-size: 1em;">✉</sup>. "[Prompt-guided generation of structured chest X-ray report using a pre-trained LLM](https://ieeexplore.ieee.org/abstract/document/10687707)." **ICME 2024**, <span style="color: #e74c3c;">**CCF-B**</span>.
-- **Hongzhao Li**, Liangzhi Zhang, Xiangrong Zhong, Jingpu Zhang, Shuo Feng, Shupan Li<sup style="font-size: 1em;">✉</sup>. "[Multi-Modality and Multi-Grained Transformer for Accurate Radiology Report Generation](https://link.springer.com/chapter/10.1007/978-981-95-0033-8_8)." **ICIC 2025**, <span style="color: #e74c3c;">**CCF-C**</span>, <span style="color: #e74c3c;">**口头报告（Oral）**</span>.
 {% endcapture %}
 <div data-home-lang="zh" lang="zh-CN" hidden>{{ home_copy | markdownify }}</div>
 <span class='anchor' id='honors-and-awards'></span>
 
 {% capture home_copy %}
 # 🎖 Honors and Awards
+- *2026* Selected for the **CAST Young Science and Technology Talent Cultivation Program (Doctoral Student Special Plan)**, China Association for Science and Technology (CAST).
 - *2026.09* **National Scholarship**, Ministry of Education of China.
 - *2026.09* First-class Ph.D. Scholarship, Zhengzhou University.
 - *2025.10* Principal Investigator, **the Natural Science Foundation of Henan Provincial** (Youth Student Project).
@@ -137,6 +135,7 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
 
 {% capture home_copy %}
 # 🎖 荣誉与奖励
+- *2026* 入选**中国科协青年科技人才培育工程博士生专项计划**。
 - *2026.09* **国家奖学金**，中华人民共和国教育部。
 - *2026.09* 郑州大学博士研究生一等学业奖学金。
 - *2025.10* 主持**河南省自然科学基金青年学生项目**。
@@ -230,18 +229,4 @@ My research interests primarily focus on **Domain Generalization** and **Multimo
   - *2024.11* &nbsp; **[中国电子学会 2024 年生成式人工智能技术专题研讨会](https://www.zzu.edu.cn/info/1217/84745.htm)**: 协助会议组织工作，有幸为与会院士及资深学者提供服务，并向他们学习。
 {% endcapture %}
 <div data-home-lang="zh" lang="zh-CN" hidden>{{ home_copy | markdownify }}</div>
-<span class='anchor' id='internships'></span>
-
-{% capture home_copy %}
-# 💻 Internships
-- *I am actively seeking research internships or visiting opportunities. Feel free to contact me!*
-{% endcapture %}
-<div data-home-lang="en" lang="en">{{ home_copy | markdownify }}</div>
-
-{% capture home_copy %}
-# 💻 实习机会
-- *我正在寻找科研实习或访问交流机会，欢迎联系！*
-{% endcapture %}
-<div data-home-lang="zh" lang="zh-CN" hidden>{{ home_copy | markdownify }}</div>
-
 <script src="{{ "/assets/js/home-language.js" | relative_url }}" defer></script>
